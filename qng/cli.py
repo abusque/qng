@@ -21,6 +21,8 @@ def _parse_args():
                         help='Filter first names by gender')
     parser.add_argument('--snake-case', '-s', action='store_true',
                         help='Print names in "snake_case" format')
+    parser.add_argument('--part', '-p', choices=['first', 'last'],
+                        help='Only print first or last name')
     parser.add_argument('--weighted', '-w', action='store_true',
                         help='Pick names according to their relative popularity')
 
@@ -89,15 +91,22 @@ def _snakify_name(name: str) -> str:
     return name
 
 
-def _format_name(name: str, surname: str, snake_case: bool = False) -> str:
+def _format_name(name: str, surname: str, part: str, snake_case: bool = False) -> str:
+    sep = ' '
+
     if snake_case:
         name = _snakify_name(name)
         surname = _snakify_name(surname)
-        full_name = f'{name}_{surname}'
-    else:
-        full_name = f'{name} {surname}'
+        sep = '_'
 
-    return full_name
+    if part == 'first':
+        disp_name = name
+    elif part == 'last':
+        disp_name = surname
+    else:
+        disp_name = f'{name}{sep}{surname}'
+
+    return disp_name
 
 
 def _run(args):
@@ -111,10 +120,8 @@ def _run(args):
 
     name = get_random_name(names)
     surname = get_random_name(surnames)
-
-    full_name = _format_name(name, surname, snake_case=args.snake_case)
-
-    print(full_name)
+    disp_name = _format_name(name, surname, args.part, snake_case=args.snake_case)
+    print(disp_name)
 
 
 def main():
