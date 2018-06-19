@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "Tremblay",
+        "weight": 1076
+    },
+    {
+        "name": "Desmarais",
+        "weight": 76
+    },
+    {
+        "name": "Larrivée",
+        "weight": 38
+    },
+    {
+        "name": "Chan",
+        "weight": 24
+    },
+    {
+        "name": "Gagnon",
+        "weight": 790
+    },
+    {
+        "name": "Laberge",
+        "weight": 76
+    },
+    {
+        "name": "Major",
+        "weight": 38
+    },
+    {
+        "name": "Métivier",
+        "weight": 24
+    },
+    {
+        "name": "Roy",
+        "weight": 753
+    },
+    {
+        "name": "Nault",
+        "weight": 76
+    },
+    {
+        "name": "Boissonneault",
+        "weight": 38
+    },
+    {
+        "name": "Fradette",
+        "weight": 24
+    },
+    {
+        "name": "Côté",
+        "weight": 692
+    },
+    {
+        "name": "Bourgeois",
+        "weight": 75
+    },
+    {
+        "name": "Patenaude",
+        "weight": 38
+    },
+    {
+        "name": "Ranger",
+        "weight": 24
+    },
+    {
+        "name": "Bouchard",
+        "weight": 530
+    },
+    {
+        "name": "Lafrance",
+        "weight": 75
+    },
+    {
+        "name": "Alarie",
+        "weight": 38
+    },
+    {
+        "name": "Després",
+        "weight": 24
+    },
+    {
+        "name": "Gauthier",
+        "weight": 522
+    },
+    {
+        "name": "Lagacé",
+        "weight": 75
+    },
+    {
+        "name": "Carpentier",
+        "weight": 38
+    },
+    {
+        "name": "Lesage",
+        "weight": 24
+    },
+    {
+        "name": "Morin",
+        "weight": 498
+    },
+    {
+        "name": "Daoust",
+        "weight": 75
+    },
+    {
+        "name": "Grenon",
+        "weight": 38
+    },
+    {
+        "name": "Poliquin",
+        "weight": 24
+    },
+    {
+        "name": "Lavoie",
+        "weight": 459
+    },
+    {
+        "name": "Brault",
+        "weight": 74
+    },
+    {
+        "name": "Bossé",
+        "weight": 38
+    },
+    {
+        "name": "Généreux",
+        "weight": 24
+    },
+    {
+        "name": "Fortin",
+        "weight": 449
+    },
+    {
+        "name": "Castonguay",
+        "weight": 74
+    },
+    {
+        "name": "Bessette",
+        "weight": 38
+    },
+    {
+        "name": "Papineau",
+        "weight": 24
+    },
+    {
+        "name": "Gagné",
+        "weight": 448
+    },
+    {
+        "name": "Vallières",
+        "weight": 74
+    },
+    {
+        "name": "Lajeunesse",
+        "weight": 38
+    },
+    {
+        "name": "Frappier",
+        "weight": 24
+    },
+    {
+        "name": "Ouellet",
+        "weight": 447
+    },
+    {
+        "name": "Pellerin",
+        "weight": 74
+    },
+    {
+        "name": "Barbeau",
+        "weight": 38
+    },
+    {
+        "name": "Latreille",
+        "weight": 24
+    },
+    {
+        "name": "Pelletier",
+        "weight": 435
+    },
+    {
+        "name": "Rivest",
+        "weight": 74
+    },
+    {
+        "name": "Miller",
+        "weight": 37
+    },
+    {
+        "name": "Meloche",
+        "weight": 24
+    },
+    {
+        "name": "Bélanger",
+        "weight": 429
+    },
+    {
+        "name": "Brochu",
+        "weight": 74
+    },
+    {
+        "name": "Masson",
+        "weight": 37
+    },
+    {
+        "name": "Gouin",
+        "weight": 23
+    },
+    {
+        "name": "Lévesque",
+        "weight": 412
+    },
+    {
+        "name": "Samson",
+        "weight": 74
+    },
+    {
+        "name": "Cournoyer",
+        "weight": 37
+    },
+    {
+        "name": "Crête",
+        "weight": 23
+    },
+    {
+        "name": "Bergeron",
+        "weight": 399
+    },
+    {
+        "name": "Lépine",
+        "weight": 74
+    },
+    {
+        "name": "Ratté",
+        "weight": 37
+    },
+    {
+        "name": "Pedneault",
+        "weight": 23
+    },
+    {
+        "name": "Leblanc",
+        "weight": 367
+    },
+    {
+        "name": "Leroux",
+        "weight": 73
+    },
+    {
+        "name": "Chrétien",
+        "weight": 37
+    },
+    {
+        "name": "Berger",
+        "weight": 23
+    },
+    {
+        "name": "Paquette",
+        "weight": 361
+    },
+    {
+        "name": "Larochelle",
+        "weight": 73
+    },
+    {
+        "name": "Bourgault",
+        "weight": 37
+    },
+    {
+        "name": "Briand",
+        "weight": 23
+    },
+    {
+        "name": "Girard",
+        "weight": 356
+    },
+    {
+        "name": "Brousseau",
+        "weight": 73
+    },
+    {
+        "name": "Leboeuf",
+        "weight": 37
+    },
+    {
+        "name": "Olivier",
+        "weight": 23
+    },
+    {
+        "name": "Simard",
+        "weight": 354
+    },
+    {
+        "name": "Sauvé",
+        "weight": 73
+    },
+    {
+        "name": "Nolet",
+        "weight": 37
+    },
+    {
+        "name": "Truchon",
+        "weight": 23
+    },
+    {
+        "name": "Boucher",
+        "weight": 341
+    },
+    {
+        "name": "Laurin",
+        "weight": 73
+    },
+    {
+        "name": "Sylvestre",
+        "weight": 37
+    },
+    {
+        "name": "Sénéchal",
+        "weight": 23
+    },
+    {
+        "name": "Caron",
+        "weight": 321
+    },
+    {
+        "name": "Clément",
+        "weight": 73
+    },
+    {
+        "name": "Rainville",
+        "weight": 37
+    },
+    {
+        "name": "Lavergne",
+        "weight": 23
+    },
+    {
+        "name": "Beaulieu",
+        "weight": 300
+    },
+    {
+        "name": "Bissonnette",
+        "weight": 72
+    },
+    {
+        "name": "Sénécal",
+        "weight": 37
+    },
+    {
+        "name": "Rochefort",
+        "weight": 23
+    },
+    {
+        "name": "Cloutier",
+        "weight": 297
+    },
+    {
+        "name": "Lajoie",
+        "weight": 72
+    },
+    {
+        "name": "Chaput",
+        "weight": 37
+    },
+    {
+        "name": "Lelièvre",
+        "weight": 23
+    },
+    {
+        "name": "Dubé",
+        "weight": 296
+    },
+    {
+        "name": "Aubin",
+        "weight": 72
+    },
+    {
+        "name": "Méthot",
+        "weight": 37
+    },
+    {
+        "name": "Gaumond",
+        "weight": 23
+    },
+    {
+        "name": "Poirier",
+        "weight": 295
+    },
+    {
+        "name": "Doyon",
+        "weight": 72
+    },
+    {
+        "name": "Desaulniers",
+        "weight": 37
+    },
+    {
+        "name": "Roussy",
+        "weight": 23
+    },
+    {
+        "name": "Fournier",
+        "weight": 293
+    },
+    {
+        "name": "Labrie",
+        "weight": 71
+    },
+    {
+        "name": "Lemelin",
+        "weight": 37
+    },
+    {
+        "name": "René",
+        "weight": 23
+    },
+    {
+        "name": "Lapointe",
+        "weight": 290
+    },
+    {
+        "name": "Grondin",
+        "weight": 71
+    },
+    {
+        "name": "Reid",
+        "weight": 37
+    },
+    {
+        "name": "Pham",
+        "weight": 23
+    },
+    {
+        "name": "Leclerc",
+        "weight": 285
+    },
+    {
+        "name": "Faucher",
+        "weight": 71
+    },
+    {
+        "name": "Lee",
+        "weight": 37
+    },
+    {
+        "name": "Dasilva",
+        "weight": 23
+    },
+    {
+        "name": "Lefebvre",
+        "weight": 279
+    },
+    {
+        "name": "Corriveau",
+        "weight": 70
+    },
+    {
+        "name": "Jacob",
+        "weight": 36
+    },
+    {
+        "name": "McKenzie",
+        "weight": 23
+    },
+    {
+        "name": "Poulin",
+        "weight": 268
+    },
+    {
+        "name": "Tétreault",
+        "weight": 70
+    },
+    {
+        "name": "Michel",
+        "weight": 36
+    },
+    {
+        "name": "Marion",
+        "weight": 23
+    },
+    {
+        "name": "Thibault",
+        "weight": 268
+    },
+    {
+        "name": "Bourque",
+        "weight": 70
+    },
+    {
+        "name": "Désilets",
+        "weight": 36
+    },
+    {
+        "name": "Sergerie",
+        "weight": 23
+    },
+    {
+        "name": "St-Pierre",
+        "weight": 264
+    },
+    {
+        "name": "Dagenais",
+        "weight": 70
+    },
+    {
+        "name": "Falardeau",
+        "weight": 36
+    },
+    {
+        "name": "Dostie",
+        "weight": 22
+    },
+    {
+        "name": "Nadeau",
+        "weight": 258
+    },
+    {
+        "name": "Ducharme",
+        "weight": 70
+    },
+    {
+        "name": "Bureau",
+        "weight": 36
+    },
+    {
+        "name": "Madore",
+        "weight": 22
+    },
+    {
+        "name": "Martin",
+        "weight": 257
+    },
+    {
+        "name": "Carrière",
+        "weight": 70
+    },
+    {
+        "name": "Gignac",
+        "weight": 36
+    },
+    {
+        "name": "Mongeau",
+        "weight": 22
+    },
+    {
+        "name": "Landry",
+        "weight": 254
+    },
+    {
+        "name": "Duquette",
+        "weight": 70
+    },
+    {
+        "name": "Lortie",
+        "weight": 36
+    },
+    {
+        "name": "Crevier",
+        "weight": 22
+    },
+    {
+        "name": "Martel",
+        "weight": 250
+    },
+    {
+        "name": "Lafleur",
+        "weight": 70
+    },
+    {
+        "name": "Mélançon",
+        "weight": 36
+    },
+    {
+        "name": "Faubert",
+        "weight": 22
+    },
+    {
+        "name": "Bédard",
+        "weight": 250
+    },
+    {
+        "name": "Langevin",
+        "weight": 68
+    },
+    {
+        "name": "Primeau",
+        "weight": 36
+    },
+    {
+        "name": "Paiement",
+        "weight": 22
+    },
+    {
+        "name": "Grenier",
+        "weight": 249
+    },
+    {
+        "name": "Corbeil",
+        "weight": 68
+    },
+    {
+        "name": "Bourget",
+        "weight": 36
+    },
+    {
+        "name": "Bousquet",
+        "weight": 22
+    },
+    {
+        "name": "Lessard",
+        "weight": 238
+    },
+    {
+        "name": "Bourassa",
+        "weight": 68
+    },
+    {
+        "name": "Robinson",
+        "weight": 36
+    },
+    {
+        "name": "Favreau",
+        "weight": 22
+    },
+    {
+        "name": "Bernier",
+        "weight": 233
+    },
+    {
+        "name": "Pagé",
+        "weight": 68
+    },
+    {
+        "name": "Chénier",
+        "weight": 35
+    },
+    {
+        "name": "Gill",
+        "weight": 22
+    },
+    {
+        "name": "Richard",
+        "weight": 228
+    },
+    {
+        "name": "Trudeau",
+        "weight": 68
+    },
+    {
+        "name": "Malenfant",
+        "weight": 35
+    },
+    {
+        "name": "Juneau",
+        "weight": 22
+    },
+    {
+        "name": "Michaud",
+        "weight": 225
+    },
+    {
+        "name": "Gaudet",
+        "weight": 68
+    },
+    {
+        "name": "St-Amour",
+        "weight": 35
+    },
+    {
+        "name": "Paris",
+        "weight": 22
+    },
+    {
+        "name": "Hébert",
+        "weight": 224
+    },
+    {
+        "name": "Cantin",
+        "weight": 68
+    },
+    {
+        "name": "Langlais",
+        "weight": 35
+    },
+    {
+        "name": "Beausoleil",
+        "weight": 22
+    },
+    {
+        "name": "Desjardins",
+        "weight": 223
+    },
+    {
+        "name": "Goyette",
+        "weight": 68
+    },
+    {
+        "name": "Williams",
+        "weight": 35
+    },
+    {
+        "name": "Boilard",
+        "weight": 22
+    },
+    {
+        "name": "Couture",
+        "weight": 220
+    },
+    {
+        "name": "Boyer",
+        "weight": 67
+    },
+    {
+        "name": "Lécuyer",
+        "weight": 35
+    },
+    {
+        "name": "Adams",
+        "weight": 22
+    },
+    {
+        "name": "Turcotte",
+        "weight": 220
+    },
+    {
+        "name": "Francoeur",
+        "weight": 67
+    },
+    {
+        "name": "Carbonneau",
+        "weight": 35
+    },
+    {
+        "name": "Bellefleur",
+        "weight": 22
+    },
+    {
+        "name": "Lachance",
+        "weight": 218
+    },
+    {
+        "name": "St-Louis",
+        "weight": 67
+    },
+    {
+        "name": "Charles",
+        "weight": 35
+    },
+    {
+        "name": "Poissant",
+        "weight": 22
+    },
+    {
+        "name": "Parent",
+        "weight": 216
+    },
+    {
+        "name": "Barrette",
+        "weight": 67
+    },
+    {
+        "name": "Campbell",
+        "weight": 35
+    },
+    {
+        "name": "Gonzalez",
+        "weight": 22
+    },
+    {
+        "name": "Blais",
+        "weight": 214
+    },
+    {
+        "name": "Vigneault",
+        "weight": 67
+    },
+    {
+        "name": "Pinard",
+        "weight": 35
+    },
+    {
+        "name": "Laframboise",
+        "weight": 22
+    },
+    {
+        "name": "Gosselin",
+        "weight": 212
+    },
+    {
+        "name": "Ouimet",
+        "weight": 67
+    },
+    {
+        "name": "Goudreau",
+        "weight": 35
+    },
+    {
+        "name": "Ringuette",
+        "weight": 22
+    },
+    {
+        "name": "Savard",
+        "weight": 211
+    },
+    {
+        "name": "Baril",
+        "weight": 66
+    },
+    {
+        "name": "Riendeau",
+        "weight": 34
+    },
+    {
+        "name": "Garon",
+        "weight": 22
+    },
+    {
+        "name": "Proulx",
+        "weight": 209
+    },
+    {
+        "name": "Lafrenière",
+        "weight": 66
+    },
+    {
+        "name": "St-Gelais",
+        "weight": 34
+    },
+    {
+        "name": "Marier",
+        "weight": 22
+    },
+    {
+        "name": "Beaudoin",
+        "weight": 207
+    },
+    {
+        "name": "Meunier",
+        "weight": 66
+    },
+    {
+        "name": "Robidoux",
+        "weight": 34
+    },
+    {
+        "name": "Desnoyers",
+        "weight": 22
+    },
+    {
+        "name": "Demers",
+        "weight": 203
+    },
+    {
+        "name": "Laporte",
+        "weight": 66
+    },
+    {
+        "name": "Wilson",
+        "weight": 34
+    },
+    {
+        "name": "Li",
+        "weight": 22
+    },
+    {
+        "name": "Perreault",
+        "weight": 203
+    },
+    {
+        "name": "Joseph",
+        "weight": 66
+    },
+    {
+        "name": "Hardy",
+        "weight": 34
+    },
+    {
+        "name": "Perras",
+        "weight": 22
+    },
+    {
+        "name": "Boudreau",
+        "weight": 199
+    },
+    {
+        "name": "Brodeur",
+        "weight": 66
+    },
+    {
+        "name": "Lampron",
+        "weight": 34
+    },
+    {
+        "name": "Déziel",
+        "weight": 22
+    },
+    {
+        "name": "Lemieux",
+        "weight": 195
+    },
+    {
+        "name": "Legaré",
+        "weight": 65
+    },
+    {
+        "name": "Jetté",
+        "weight": 34
+    },
+    {
+        "name": "Gascon",
+        "weight": 22
+    },
+    {
+        "name": "Cyr",
+        "weight": 193
+    },
+    {
+        "name": "Lafond",
+        "weight": 65
+    },
+    {
+        "name": "Clermont",
+        "weight": 34
+    },
+    {
+        "name": "Crépeau",
+        "weight": 21
+    },
+    {
+        "name": "Perron",
+        "weight": 193
+    },
+    {
+        "name": "Ross",
+        "weight": 65
+    },
+    {
+        "name": "Groleau",
+        "weight": 34
+    },
+    {
+        "name": "Galipeau",
+        "weight": 21
+    },
+    {
+        "name": "Dufour",
+        "weight": 191
+    },
+    {
+        "name": "Maheux",
+        "weight": 65
+    },
+    {
+        "name": "Bois",
+        "weight": 33
+    },
+    {
+        "name": "Garcia",
+        "weight": 21
+    },
+    {
+        "name": "Dion",
+        "weight": 189
+    },
+    {
+        "name": "Rondeau",
+        "weight": 64
+    },
+    {
+        "name": "Guertin",
+        "weight": 33
+    },
+    {
+        "name": "Kaur",
+        "weight": 21
+    },
+    {
+        "name": "Mercier",
+        "weight": 189
+    },
+    {
+        "name": "Marquis",
+        "weight": 64
+    },
+    {
+        "name": "Lecompte",
+        "weight": 33
+    },
+    {
+        "name": "Coderre",
+        "weight": 21
+    },
+    {
+        "name": "Bolduc",
+        "weight": 187
+    },
+    {
+        "name": "Bastien",
+        "weight": 64
+    },
+    {
+        "name": "Héroux",
+        "weight": 33
+    },
+    {
+        "name": "Huynh",
+        "weight": 21
+    },
+    {
+        "name": "Bérubé",
+        "weight": 186
+    },
+    {
+        "name": "Plouffe",
+        "weight": 63
+    },
+    {
+        "name": "Sylvain",
+        "weight": 33
+    },
+    {
+        "name": "Milot",
+        "weight": 21
+    },
+    {
+        "name": "Boisvert",
+        "weight": 186
+    },
+    {
+        "name": "Bouffard",
+        "weight": 63
+    },
+    {
+        "name": "Hallé",
+        "weight": 33
+    },
+    {
+        "name": "Tassé",
+        "weight": 21
+    },
+    {
+        "name": "Langlois",
+        "weight": 184
+    },
+    {
+        "name": "Lacombe",
+        "weight": 63
+    },
+    {
+        "name": "Desormeaux",
+        "weight": 33
+    },
+    {
+        "name": "Hernandez",
+        "weight": 21
+    },
+    {
+        "name": "Ménard",
+        "weight": 181
+    },
+    {
+        "name": "Talbot",
+        "weight": 63
+    },
+    {
+        "name": "Fraser",
+        "weight": 33
+    },
+    {
+        "name": "Marin",
+        "weight": 21
+    },
+    {
+        "name": "Therrien",
+        "weight": 178
+    },
+    {
+        "name": "Julien",
+        "weight": 63
+    },
+    {
+        "name": "Néron",
+        "weight": 33
+    },
+    {
+        "name": "Hénault",
+        "weight": 21
+    },
+    {
+        "name": "Plante",
+        "weight": 177
+    },
+    {
+        "name": "Rouleau",
+        "weight": 63
+    },
+    {
+        "name": "St-Denis",
+        "weight": 33
+    },
+    {
+        "name": "Lehoux",
+        "weight": 21
+    },
+    {
+        "name": "Bilodeau",
+        "weight": 177
+    },
+    {
+        "name": "Roussel",
+        "weight": 62
+    },
+    {
+        "name": "Adam",
+        "weight": 33
+    },
+    {
+        "name": "Robertson",
+        "weight": 21
+    },
+    {
+        "name": "Blanchette",
+        "weight": 176
+    },
+    {
+        "name": "Guérin",
+        "weight": 62
+    },
+    {
+        "name": "Voyer",
+        "weight": 33
+    },
+    {
+        "name": "Taillon",
+        "weight": 21
+    },
+    {
+        "name": "Dubois",
+        "weight": 176
+    },
+    {
+        "name": "Boulianne",
+        "weight": 62
+    },
+    {
+        "name": "Albert",
+        "weight": 33
+    },
+    {
+        "name": "Bisaillon",
+        "weight": 21
+    },
+    {
+        "name": "Champagne",
+        "weight": 174
+    },
+    {
+        "name": "Beaupré",
+        "weight": 62
+    },
+    {
+        "name": "Venne",
+        "weight": 33
+    },
+    {
+        "name": "Laperrière",
+        "weight": 21
+    },
+    {
+        "name": "Paradis",
+        "weight": 171
+    },
+    {
+        "name": "Éthier",
+        "weight": 62
+    },
+    {
+        "name": "Rochette",
+        "weight": 33
+    },
+    {
+        "name": "Vinet",
+        "weight": 21
+    },
+    {
+        "name": "Fortier",
+        "weight": 170
+    },
+    {
+        "name": "Dussault",
+        "weight": 62
+    },
+    {
+        "name": "Rodriguez",
+        "weight": 33
+    },
+    {
+        "name": "Cartier",
+        "weight": 21
+    },
+    {
+        "name": "Arsenault",
+        "weight": 170
+    },
+    {
+        "name": "Lamarche",
+        "weight": 62
+    },
+    {
+        "name": "Mayer",
+        "weight": 33
+    },
+    {
+        "name": "Pothier",
+        "weight": 21
+    },
+    {
+        "name": "Dupuis",
+        "weight": 169
+    },
+    {
+        "name": "Gallant",
+        "weight": 62
+    },
+    {
+        "name": "Racicot",
+        "weight": 33
+    },
+    {
+        "name": "St-Georges",
+        "weight": 21
+    },
+    {
+        "name": "Gaudreault",
+        "weight": 169
+    },
+    {
+        "name": "Gauvin",
+        "weight": 62
+    },
+    {
+        "name": "Miron",
+        "weight": 33
+    },
+    {
+        "name": "Munger",
+        "weight": 21
+    },
+    {
+        "name": "Hamel",
+        "weight": 169
+    },
+    {
+        "name": "Lamothe",
+        "weight": 62
+    },
+    {
+        "name": "White",
+        "weight": 32
+    },
+    {
+        "name": "Angers",
+        "weight": 21
+    },
+    {
+        "name": "Houle",
+        "weight": 169
+    },
+    {
+        "name": "Joly",
+        "weight": 61
+    },
+    {
+        "name": "Brosseau",
+        "weight": 32
+    },
+    {
+        "name": "Audy",
+        "weight": 21
+    },
+    {
+        "name": "Villeneuve",
+        "weight": 165
+    },
+    {
+        "name": "Robichaud",
+        "weight": 61
+    },
+    {
+        "name": "Lecours",
+        "weight": 32
+    },
+    {
+        "name": "Dulude",
+        "weight": 21
+    },
+    {
+        "name": "Rousseau",
+        "weight": 164
+    },
+    {
+        "name": "Léveillé",
+        "weight": 60
+    },
+    {
+        "name": "Nadon",
+        "weight": 32
+    },
+    {
+        "name": "Ledoux",
+        "weight": 21
+    },
+    {
+        "name": "Gravel",
+        "weight": 163
+    },
+    {
+        "name": "Bellemare",
+        "weight": 60
+    },
+    {
+        "name": "Pelchat",
+        "weight": 32
+    },
+    {
+        "name": "Pruneau",
+        "weight": 21
+    },
+    {
+        "name": "Thériault",
+        "weight": 163
+    },
+    {
+        "name": "Huard",
+        "weight": 60
+    },
+    {
+        "name": "St-Jacques",
+        "weight": 32
+    },
+    {
+        "name": "Bond",
+        "weight": 21
+    },
+    {
+        "name": "Lemay",
+        "weight": 160
+    },
+    {
+        "name": "Garneau",
+        "weight": 60
+    },
+    {
+        "name": "St-Arnaud",
+        "weight": 32
+    },
+    {
+        "name": "Beauséjour",
+        "weight": 21
+    },
+    {
+        "name": "Robert",
+        "weight": 158
+    },
+    {
+        "name": "Levasseur",
+        "weight": 60
+    },
+    {
+        "name": "Théorêt",
+        "weight": 32
+    },
+    {
+        "name": "Biron",
+        "weight": 21
+    },
+    {
+        "name": "Allard",
+        "weight": 157
+    },
+    {
+        "name": "Dubuc",
+        "weight": 60
+    },
+    {
+        "name": "Chassé",
+        "weight": 32
+    },
+    {
+        "name": "Banville",
+        "weight": 21
+    },
+    {
+        "name": "Deschênes",
+        "weight": 157
+    },
+    {
+        "name": "Millette",
+        "weight": 60
+    },
+    {
+        "name": "Pageau",
+        "weight": 32
+    },
+    {
+        "name": "Pinette",
+        "weight": 21
+    },
+    {
+        "name": "Giroux",
+        "weight": 155
+    },
+    {
+        "name": "Poitras",
+        "weight": 60
+    },
+    {
+        "name": "Delorme",
+        "weight": 32
+    },
+    {
+        "name": "Martinez",
+        "weight": 21
+    },
+    {
+        "name": "Guay",
+        "weight": 155
+    },
+    {
+        "name": "Rochon",
+        "weight": 59
+    },
+    {
+        "name": "Jolicoeur",
+        "weight": 32
+    },
+    {
+        "name": "Perez",
+        "weight": 21
+    },
+    {
+        "name": "Leduc",
+        "weight": 155
+    },
+    {
+        "name": "Brière",
+        "weight": 59
+    },
+    {
+        "name": "Sauvageau",
+        "weight": 32
+    },
+    {
+        "name": "Dumouchel",
+        "weight": 20
+    },
+    {
+        "name": "Boivin",
+        "weight": 153
+    },
+    {
+        "name": "Guimond",
+        "weight": 59
+    },
+    {
+        "name": "Bonin",
+        "weight": 32
+    },
+    {
+        "name": "Labranche",
+        "weight": 20
+    },
+    {
+        "name": "Charbonneau",
+        "weight": 153
+    },
+    {
+        "name": "Hudon",
+        "weight": 59
+    },
+    {
+        "name": "Galarneau",
+        "weight": 32
+    },
+    {
+        "name": "Trahan",
+        "weight": 20
+    },
+    {
+        "name": "Lambert",
+        "weight": 152
+    },
+    {
+        "name": "Auclair",
+        "weight": 58
+    },
+    {
+        "name": "Laprise",
+        "weight": 32
+    },
+    {
+        "name": "Laviolette",
+        "weight": 20
+    },
+    {
+        "name": "Raymond",
+        "weight": 151
+    },
+    {
+        "name": "Beauchemin",
+        "weight": 58
+    },
+    {
+        "name": "Mongrain",
+        "weight": 32
+    },
+    {
+        "name": "Bénard",
+        "weight": 20
+    },
+    {
+        "name": "Vachon",
+        "weight": 150
+    },
+    {
+        "name": "Brisebois",
+        "weight": 58
+    },
+    {
+        "name": "Thompson",
+        "weight": 32
+    },
+    {
+        "name": "Hains",
+        "weight": 20
+    },
+    {
+        "name": "Gilbert",
+        "weight": 148
+    },
+    {
+        "name": "Godbout",
+        "weight": 58
+    },
+    {
+        "name": "Valiquette",
+        "weight": 32
+    },
+    {
+        "name": "Gaulin",
+        "weight": 20
+    },
+    {
+        "name": "Audet",
+        "weight": 147
+    },
+    {
+        "name": "Guilbault",
+        "weight": 58
+    },
+    {
+        "name": "Carignan",
+        "weight": 31
+    },
+    {
+        "name": "Lacoursière",
+        "weight": 20
+    },
+    {
+        "name": "Jean",
+        "weight": 147
+    },
+    {
+        "name": "Cadieux",
+        "weight": 57
+    },
+    {
+        "name": "Cusson",
+        "weight": 31
+    },
+    {
+        "name": "Guérard",
+        "weight": 20
+    },
+    {
+        "name": "Larouche",
+        "weight": 146
+    },
+    {
+        "name": "Brown",
+        "weight": 57
+    },
+    {
+        "name": "Le",
+        "weight": 31
+    },
+    {
+        "name": "Pratte",
+        "weight": 20
+    },
+    {
+        "name": "Legault",
+        "weight": 144
+    },
+    {
+        "name": "Durocher",
+        "weight": 57
+    },
+    {
+        "name": "Dumoulin",
+        "weight": 31
+    },
+    {
+        "name": "Duhamel",
+        "weight": 20
+    },
+    {
+        "name": "Trudel",
+        "weight": 142
+    },
+    {
+        "name": "Lamarre",
+        "weight": 57
+    },
+    {
+        "name": "Babin",
+        "weight": 31
+    },
+    {
+        "name": "Dufort",
+        "weight": 20
+    },
+    {
+        "name": "Fontaine",
+        "weight": 141
+    },
+    {
+        "name": "Ricard",
+        "weight": 57
+    },
+    {
+        "name": "Chevrier",
+        "weight": 31
+    },
+    {
+        "name": "Nolin",
+        "weight": 20
+    },
+    {
+        "name": "Picard",
+        "weight": 140
+    },
+    {
+        "name": "Monette",
+        "weight": 57
+    },
+    {
+        "name": "Latulippe",
+        "weight": 31
+    },
+    {
+        "name": "Lupien",
+        "weight": 20
+    },
+    {
+        "name": "Labelle",
+        "weight": 140
+    },
+    {
+        "name": "Cardinal",
+        "weight": 56
+    },
+    {
+        "name": "Riopel",
+        "weight": 31
+    },
+    {
+        "name": "Rouillard",
+        "weight": 20
+    },
+    {
+        "name": "Lacroix",
+        "weight": 138
+    },
+    {
+        "name": "Tran",
+        "weight": 56
+    },
+    {
+        "name": "Turmel",
+        "weight": 31
+    },
+    {
+        "name": "Dupéré",
+        "weight": 20
+    },
+    {
+        "name": "Jacques",
+        "weight": 137
+    },
+    {
+        "name": "St-Hilaire",
+        "weight": 56
+    },
+    {
+        "name": "Claveau",
+        "weight": 31
+    },
+    {
+        "name": "Choinière",
+        "weight": 20
+    },
+    {
+        "name": "Moreau",
+        "weight": 137
+    },
+    {
+        "name": "Jobin",
+        "weight": 56
+    },
+    {
+        "name": "Lahaie",
+        "weight": 31
+    },
+    {
+        "name": "Turbide",
+        "weight": 20
+    },
+    {
+        "name": "Carrier",
+        "weight": 137
+    },
+    {
+        "name": "Daigneault",
+        "weight": 56
+    },
+    {
+        "name": "Pitre",
+        "weight": 31
+    },
+    {
+        "name": "Vanier",
+        "weight": 20
+    },
+    {
+        "name": "Bernard",
+        "weight": 134
+    },
+    {
+        "name": "Chamberland",
+        "weight": 55
+    },
+    {
+        "name": "Bourdeau",
+        "weight": 31
+    },
+    {
+        "name": "Aubut",
+        "weight": 20
+    },
+    {
+        "name": "Desrosiers",
+        "weight": 133
+    },
+    {
+        "name": "Deschamps",
+        "weight": 55
+    },
+    {
+        "name": "Lemaire",
+        "weight": 31
+    },
+    {
+        "name": "Dupras",
+        "weight": 20
+    },
+    {
+        "name": "Goulet",
+        "weight": 133
+    },
+    {
+        "name": "Beaudin",
+        "weight": 55
+    },
+    {
+        "name": "Migneault",
+        "weight": 31
+    },
+    {
+        "name": "Belleau",
+        "weight": 20
+    },
+    {
+        "name": "Renaud",
+        "weight": 132
+    },
+    {
+        "name": "Henry",
+        "weight": 54
+    },
+    {
+        "name": "Fecteau",
+        "weight": 31
+    },
+    {
+        "name": "Davis",
+        "weight": 20
+    },
+    {
+        "name": "Dionne",
+        "weight": 131
+    },
+    {
+        "name": "Boulet",
+        "weight": 54
+    },
+    {
+        "name": "Payette",
+        "weight": 31
+    },
+    {
+        "name": "Lacelle",
+        "weight": 20
+    },
+    {
+        "name": "Lapierre",
+        "weight": 130
+    },
+    {
+        "name": "Collin",
+        "weight": 53
+    },
+    {
+        "name": "Poisson",
+        "weight": 31
+    },
+    {
+        "name": "Blondin",
+        "weight": 20
+    },
+    {
+        "name": "Vaillancourt",
+        "weight": 130
+    },
+    {
+        "name": "Sabourin",
+        "weight": 53
+    },
+    {
+        "name": "Gratton",
+        "weight": 30
+    },
+    {
+        "name": "Harnois",
+        "weight": 20
+    },
+    {
+        "name": "Fillion",
+        "weight": 129
+    },
+    {
+        "name": "Deslauriers",
+        "weight": 53
+    },
+    {
+        "name": "Thiffault",
+        "weight": 30
+    },
+    {
+        "name": "Laferrière",
+        "weight": 20
+    },
+    {
+        "name": "Lalonde",
+        "weight": 129
+    },
+    {
+        "name": "Dumais",
+        "weight": 53
+    },
+    {
+        "name": "Scott",
+        "weight": 30
+    },
+    {
+        "name": "Surprenant",
+        "weight": 20
+    },
+    {
+        "name": "Tessier",
+        "weight": 129
+    },
+    {
+        "name": "Gamache",
+        "weight": 53
+    },
+    {
+        "name": "Cayer",
+        "weight": 30
+    },
+    {
+        "name": "Bougie",
+        "weight": 19
+    },
+    {
+        "name": "Bertrand",
+        "weight": 128
+    },
+    {
+        "name": "Messier",
+        "weight": 53
+    },
+    {
+        "name": "Garceau",
+        "weight": 30
+    },
+    {
+        "name": "Collard",
+        "weight": 19
+    },
+    {
+        "name": "Tardif",
+        "weight": 127
+    },
+    {
+        "name": "Beaudet",
+        "weight": 53
+    },
+    {
+        "name": "Boisclair",
+        "weight": 30
+    },
+    {
+        "name": "Hamilton",
+        "weight": 19
+    },
+    {
+        "name": "Lepage",
+        "weight": 127
+    },
+    {
+        "name": "Pilote",
+        "weight": 53
+    },
+    {
+        "name": "Belzile",
+        "weight": 30
+    },
+    {
+        "name": "Fauteux",
+        "weight": 19
+    },
+    {
+        "name": "Gingras",
+        "weight": 126
+    },
+    {
+        "name": "Berthiaume",
+        "weight": 52
+    },
+    {
+        "name": "Blain",
+        "weight": 30
+    },
+    {
+        "name": "Gendreau",
+        "weight": 19
+    },
+    {
+        "name": "Benoît",
+        "weight": 125
+    },
+    {
+        "name": "Cossette",
+        "weight": 52
+    },
+    {
+        "name": "Ste-Marie",
+        "weight": 30
+    },
+    {
+        "name": "Cabana",
+        "weight": 19
+    },
+    {
+        "name": "Rioux",
+        "weight": 124
+    },
+    {
+        "name": "Hamelin",
+        "weight": 52
+    },
+    {
+        "name": "Bernatchez",
+        "weight": 30
+    },
+    {
+        "name": "Gougeon",
+        "weight": 19
+    },
+    {
+        "name": "Giguère",
+        "weight": 123
+    },
+    {
+        "name": "Rhéaume",
+        "weight": 52
+    },
+    {
+        "name": "Laramée",
+        "weight": 29
+    },
+    {
+        "name": "Maisonneuve",
+        "weight": 19
+    },
+    {
+        "name": "Drouin",
+        "weight": 122
+    },
+    {
+        "name": "Campeau",
+        "weight": 52
+    },
+    {
+        "name": "Mainville",
+        "weight": 29
+    },
+    {
+        "name": "Bouthillier",
+        "weight": 19
+    },
+    {
+        "name": "Harvey",
+        "weight": 122
+    },
+    {
+        "name": "Mallette",
+        "weight": 51
+    },
+    {
+        "name": "Deneault",
+        "weight": 29
+    },
+    {
+        "name": "Quenneville",
+        "weight": 19
+    },
+    {
+        "name": "Lauzon",
+        "weight": 122
+    },
+    {
+        "name": "Fleury",
+        "weight": 51
+    },
+    {
+        "name": "Beauvais",
+        "weight": 29
+    },
+    {
+        "name": "Bourbonnais",
+        "weight": 19
+    },
+    {
+        "name": "Nguyen",
+        "weight": 122
+    },
+    {
+        "name": "Patry",
+        "weight": 51
+    },
+    {
+        "name": "Bigras",
+        "weight": 29
+    },
+    {
+        "name": "Maillé",
+        "weight": 19
+    },
+    {
+        "name": "Gendron",
+        "weight": 122
+    },
+    {
+        "name": "St-Amand",
+        "weight": 51
+    },
+    {
+        "name": "Cliche",
+        "weight": 29
+    },
+    {
+        "name": "Morand",
+        "weight": 19
+    },
+    {
+        "name": "Boutin",
+        "weight": 122
+    },
+    {
+        "name": "Gariépy",
+        "weight": 51
+    },
+    {
+        "name": "Parenteau",
+        "weight": 29
+    },
+    {
+        "name": "Béchard",
+        "weight": 19
+    },
+    {
+        "name": "Laflamme",
+        "weight": 121
+    },
+    {
+        "name": "David",
+        "weight": 51
+    },
+    {
+        "name": "Prince",
+        "weight": 29
+    },
+    {
+        "name": "Bellerose",
+        "weight": 19
+    },
+    {
+        "name": "Vallée",
+        "weight": 120
+    },
+    {
+        "name": "Viens",
+        "weight": 51
+    },
+    {
+        "name": "Clarke",
+        "weight": 29
+    },
+    {
+        "name": "Nicolas",
+        "weight": 19
+    },
+    {
+        "name": "Dumont",
+        "weight": 120
+    },
+    {
+        "name": "Veillette",
+        "weight": 51
+    },
+    {
+        "name": "Lacoste",
+        "weight": 29
+    },
+    {
+        "name": "Taillefer",
+        "weight": 19
+    },
+    {
+        "name": "Breton",
+        "weight": 119
+    },
+    {
+        "name": "Blanchard",
+        "weight": 51
+    },
+    {
+        "name": "Dessureault",
+        "weight": 29
+    },
+    {
+        "name": "Caissy",
+        "weight": 19
+    },
+    {
+        "name": "Paré",
+        "weight": 119
+    },
+    {
+        "name": "Binette",
+        "weight": 51
+    },
+    {
+        "name": "Roch",
+        "weight": 29
+    },
+    {
+        "name": "Lanctôt",
+        "weight": 19
+    },
+    {
+        "name": "Paquin",
+        "weight": 119
+    },
+    {
+        "name": "Lebrun",
+        "weight": 50
+    },
+    {
+        "name": "Bourgoin",
+        "weight": 29
+    },
+    {
+        "name": "Cadorette",
+        "weight": 19
+    },
+    {
+        "name": "Robitaille",
+        "weight": 119
+    },
+    {
+        "name": "St-Germain",
+        "weight": 50
+    },
+    {
+        "name": "Singh",
+        "weight": 29
+    },
+    {
+        "name": "Lirette",
+        "weight": 19
+    },
+    {
+        "name": "Gélinas",
+        "weight": 117
+    },
+    {
+        "name": "Ladouceur",
+        "weight": 50
+    },
+    {
+        "name": "Boileau",
+        "weight": 29
+    },
+    {
+        "name": "Diotte",
+        "weight": 19
+    },
+    {
+        "name": "Duchesne",
+        "weight": 117
+    },
+    {
+        "name": "Fiset",
+        "weight": 50
+    },
+    {
+        "name": "Péloquin",
+        "weight": 29
+    },
+    {
+        "name": "Fernandez",
+        "weight": 19
+    },
+    {
+        "name": "Lussier",
+        "weight": 115
+    },
+    {
+        "name": "Moisan",
+        "weight": 50
+    },
+    {
+        "name": "Lespérance",
+        "weight": 29
+    },
+    {
+        "name": "Roger",
+        "weight": 19
+    },
+    {
+        "name": "Séguin",
+        "weight": 115
+    },
+    {
+        "name": "Loiselle",
+        "weight": 49
+    },
+    {
+        "name": "Descôteaux",
+        "weight": 29
+    },
+    {
+        "name": "Lachaîne",
+        "weight": 19
+    },
+    {
+        "name": "Veilleux",
+        "weight": 114
+    },
+    {
+        "name": "Comeau",
+        "weight": 49
+    },
+    {
+        "name": "Arbour",
+        "weight": 29
+    },
+    {
+        "name": "Théroux",
+        "weight": 19
+    },
+    {
+        "name": "Potvin",
+        "weight": 114
+    },
+    {
+        "name": "Mailhot",
+        "weight": 49
+    },
+    {
+        "name": "Roux",
+        "weight": 29
+    },
+    {
+        "name": "Lauzier",
+        "weight": 19
+    },
+    {
+        "name": "Gervais",
+        "weight": 114
+    },
+    {
+        "name": "Doré",
+        "weight": 49
+    },
+    {
+        "name": "Joyal",
+        "weight": 29
+    },
+    {
+        "name": "Beaumier",
+        "weight": 19
+    },
+    {
+        "name": "Pépin",
+        "weight": 113
+    },
+    {
+        "name": "Déry",
+        "weight": 49
+    },
+    {
+        "name": "Chicoine",
+        "weight": 29
+    },
+    {
+        "name": "Duhaime",
+        "weight": 19
+    },
+    {
+        "name": "Laroche",
+        "weight": 113
+    },
+    {
+        "name": "Mailloux",
+        "weight": 49
+    },
+    {
+        "name": "Dubeau",
+        "weight": 29
+    },
+    {
+        "name": "Giasson",
+        "weight": 19
+    },
+    {
+        "name": "Morissette",
+        "weight": 112
+    },
+    {
+        "name": "Forest",
+        "weight": 49
+    },
+    {
+        "name": "Kelly",
+        "weight": 29
+    },
+    {
+        "name": "Lewis",
+        "weight": 19
+    },
+    {
+        "name": "Charron",
+        "weight": 111
+    },
+    {
+        "name": "Huot",
+        "weight": 49
+    },
+    {
+        "name": "Beauchesne",
+        "weight": 29
+    },
+    {
+        "name": "Limoges",
+        "weight": 19
+    },
+    {
+        "name": "Lavallée",
+        "weight": 111
+    },
+    {
+        "name": "Morneau",
+        "weight": 49
+    },
+    {
+        "name": "Joncas",
+        "weight": 28
+    },
+    {
+        "name": "Cameron",
+        "weight": 19
+    },
+    {
+        "name": "Laplante",
+        "weight": 111
+    },
+    {
+        "name": "Allaire",
+        "weight": 49
+    },
+    {
+        "name": "Lopez",
+        "weight": 28
+    },
+    {
+        "name": "Canuel",
+        "weight": 19
+    },
+    {
+        "name": "Chabot",
+        "weight": 110
+    },
+    {
+        "name": "Viau",
+        "weight": 49
+    },
+    {
+        "name": "Lafortune",
+        "weight": 28
+    },
+    {
+        "name": "McLean",
+        "weight": 19
+    },
+    {
+        "name": "Brunet",
+        "weight": 108
+    },
+    {
+        "name": "Ayotte",
+        "weight": 48
+    },
+    {
+        "name": "Chénard",
+        "weight": 28
+    },
+    {
+        "name": "Dastous",
+        "weight": 19
+    },
+    {
+        "name": "Vézina",
+        "weight": 108
+    },
+    {
+        "name": "Massicotte",
+        "weight": 48
+    },
+    {
+        "name": "Routhier",
+        "weight": 28
+    },
+    {
+        "name": "Daviault",
+        "weight": 19
+    },
+    {
+        "name": "Desrochers",
+        "weight": 108
+    },
+    {
+        "name": "Genest",
+        "weight": 48
+    },
+    {
+        "name": "Bellavance",
+        "weight": 28
+    },
+    {
+        "name": "Dunn",
+        "weight": 19
+    },
+    {
+        "name": "Labrecque",
+        "weight": 107
+    },
+    {
+        "name": "Thivierge",
+        "weight": 48
+    },
+    {
+        "name": "Moore",
+        "weight": 28
+    },
+    {
+        "name": "Chen",
+        "weight": 18
+    },
+    {
+        "name": "Coulombe",
+        "weight": 107
+    },
+    {
+        "name": "Simoneau",
+        "weight": 48
+    },
+    {
+        "name": "Brien",
+        "weight": 28
+    },
+    {
+        "name": "Diamond",
+        "weight": 18
+    },
+    {
+        "name": "Tanguay",
+        "weight": 106
+    },
+    {
+        "name": "Robillard",
+        "weight": 48
+    },
+    {
+        "name": "Hubert",
+        "weight": 28
+    },
+    {
+        "name": "Stewart",
+        "weight": 18
+    },
+    {
+        "name": "Chouinard",
+        "weight": 105
+    },
+    {
+        "name": "Jalbert",
+        "weight": 48
+    },
+    {
+        "name": "Maurice",
+        "weight": 28
+    },
+    {
+        "name": "Jourdain",
+        "weight": 18
+    },
+    {
+        "name": "Noël",
+        "weight": 105
+    },
+    {
+        "name": "Chagnon",
+        "weight": 47
+    },
+    {
+        "name": "Guindon",
+        "weight": 28
+    },
+    {
+        "name": "Poudrier",
+        "weight": 18
+    },
+    {
+        "name": "Pouliot",
+        "weight": 104
+    },
+    {
+        "name": "Pomerleau",
+        "weight": 47
+    },
+    {
+        "name": "Touchette",
+        "weight": 28
+    },
+    {
+        "name": "Doyle",
+        "weight": 18
+    },
+    {
+        "name": "Lacasse",
+        "weight": 104
+    },
+    {
+        "name": "Leblond",
+        "weight": 47
+    },
+    {
+        "name": "Dubreuil",
+        "weight": 27
+    },
+    {
+        "name": "Normandeau",
+        "weight": 18
+    },
+    {
+        "name": "Daigle",
+        "weight": 103
+    },
+    {
+        "name": "Frenette",
+        "weight": 47
+    },
+    {
+        "name": "Santerre",
+        "weight": 27
+    },
+    {
+        "name": "Lacerte",
+        "weight": 18
+    },
+    {
+        "name": "Marcoux",
+        "weight": 103
+    },
+    {
+        "name": "Aubé",
+        "weight": 46
+    },
+    {
+        "name": "Pronovost",
+        "weight": 27
+    },
+    {
+        "name": "Nicol",
+        "weight": 18
+    },
+    {
+        "name": "Lamontagne",
+        "weight": 102
+    },
+    {
+        "name": "Desgagné",
+        "weight": 46
+    },
+    {
+        "name": "Courtemanche",
+        "weight": 27
+    },
+    {
+        "name": "Décarie",
+        "weight": 18
+    },
+    {
+        "name": "Turgeon",
+        "weight": 102
+    },
+    {
+        "name": "Jutras",
+        "weight": 46
+    },
+    {
+        "name": "Deshaies",
+        "weight": 27
+    },
+    {
+        "name": "Louis",
+        "weight": 18
+    },
+    {
+        "name": "Larocque",
+        "weight": 101
+    },
+    {
+        "name": "Ruel",
+        "weight": 46
+    },
+    {
+        "name": "Chalifoux",
+        "weight": 27
+    },
+    {
+        "name": "Roberts",
+        "weight": 18
+    },
+    {
+        "name": "Roberge",
+        "weight": 101
+    },
+    {
+        "name": "Thomas",
+        "weight": 46
+    },
+    {
+        "name": "Sigouin",
+        "weight": 27
+    },
+    {
+        "name": "Pearson",
+        "weight": 18
+    },
+    {
+        "name": "Auger",
+        "weight": 100
+    },
+    {
+        "name": "Murray",
+        "weight": 46
+    },
+    {
+        "name": "Brouillard",
+        "weight": 27
+    },
+    {
+        "name": "Walker",
+        "weight": 18
+    },
+    {
+        "name": "Massé",
+        "weight": 100
+    },
+    {
+        "name": "Bruneau",
+        "weight": 46
+    },
+    {
+        "name": "Goyer",
+        "weight": 27
+    },
+    {
+        "name": "Dansereau",
+        "weight": 18
+    },
+    {
+        "name": "Pilon",
+        "weight": 100
+    },
+    {
+        "name": "Béliveau",
+        "weight": 46
+    },
+    {
+        "name": "Harrisson",
+        "weight": 27
+    },
+    {
+        "name": "Pereira",
+        "weight": 18
+    },
+    {
+        "name": "Racine",
+        "weight": 100
+    },
+    {
+        "name": "Coutu",
+        "weight": 46
+    },
+    {
+        "name": "Longpré",
+        "weight": 27
+    },
+    {
+        "name": "Lévy",
+        "weight": 18
+    },
+    {
+        "name": "Dallaire",
+        "weight": 99
+    },
+    {
+        "name": "Lefrançois",
+        "weight": 46
+    },
+    {
+        "name": "Rémillard",
+        "weight": 27
+    },
+    {
+        "name": "Montreuil",
+        "weight": 18
+    },
+    {
+        "name": "Émond",
+        "weight": 99
+    },
+    {
+        "name": "Lheureux",
+        "weight": 46
+    },
+    {
+        "name": "Filiatrault",
+        "weight": 27
+    },
+    {
+        "name": "Dalpé",
+        "weight": 18
+    },
+    {
+        "name": "Grégoire",
+        "weight": 99
+    },
+    {
+        "name": "Desroches",
+        "weight": 46
+    },
+    {
+        "name": "Verville",
+        "weight": 27
+    },
+    {
+        "name": "Lacharité",
+        "weight": 18
+    },
+    {
+        "name": "Beauregard",
+        "weight": 99
+    },
+    {
+        "name": "Chartier",
+        "weight": 45
+    },
+    {
+        "name": "Bérard",
+        "weight": 27
+    },
+    {
+        "name": "Letendre",
+        "weight": 18
+    },
+    {
+        "name": "Smith",
+        "weight": 98
+    },
+    {
+        "name": "Courchesne",
+        "weight": 45
+    },
+    {
+        "name": "Vermette",
+        "weight": 27
+    },
+    {
+        "name": "Vandal",
+        "weight": 18
+    },
+    {
+        "name": "Denis",
+        "weight": 98
+    },
+    {
+        "name": "Verreault",
+        "weight": 45
+    },
+    {
+        "name": "Rocheleau",
+        "weight": 27
+    },
+    {
+        "name": "Daneau",
+        "weight": 18
+    },
+    {
+        "name": "Lebel",
+        "weight": 98
+    },
+    {
+        "name": "Brunelle",
+        "weight": 45
+    },
+    {
+        "name": "Cohen",
+        "weight": 27
+    },
+    {
+        "name": "Mireault",
+        "weight": 18
+    },
+    {
+        "name": "Blouin",
+        "weight": 97
+    },
+    {
+        "name": "Boulay",
+        "weight": 45
+    },
+    {
+        "name": "Bourdon",
+        "weight": 27
+    },
+    {
+        "name": "Ahmed",
+        "weight": 18
+    },
+    {
+        "name": "Martineau",
+        "weight": 97
+    },
+    {
+        "name": "Quirion",
+        "weight": 45
+    },
+    {
+        "name": "Duchesneau",
+        "weight": 27
+    },
+    {
+        "name": "Desfossés",
+        "weight": 18
+    },
+    {
+        "name": "Labbé",
+        "weight": 97
+    },
+    {
+        "name": "Marcil",
+        "weight": 45
+    },
+    {
+        "name": "Anctil",
+        "weight": 27
+    },
+    {
+        "name": "Belhumeur",
+        "weight": 18
+    },
+    {
+        "name": "Beauchamp",
+        "weight": 96
+    },
+    {
+        "name": "Alain",
+        "weight": 45
+    },
+    {
+        "name": "Aubry",
+        "weight": 27
+    },
+    {
+        "name": "Gemme",
+        "weight": 18
+    },
+    {
+        "name": "St-Onge",
+        "weight": 96
+    },
+    {
+        "name": "Drapeau",
+        "weight": 45
+    },
+    {
+        "name": "Wong",
+        "weight": 27
+    },
+    {
+        "name": "Jomphe",
+        "weight": 18
+    },
+    {
+        "name": "Charette",
+        "weight": 95
+    },
+    {
+        "name": "Marceau",
+        "weight": 45
+    },
+    {
+        "name": "Goupil",
+        "weight": 27
+    },
+    {
+        "name": "Langelier",
+        "weight": 18
+    },
+    {
+        "name": "Dupont",
+        "weight": 95
+    },
+    {
+        "name": "Lizotte",
+        "weight": 44
+    },
+    {
+        "name": "Lamy",
+        "weight": 27
+    },
+    {
+        "name": "Magnan",
+        "weight": 18
+    },
+    {
+        "name": "Létourneau",
+        "weight": 94
+    },
+    {
+        "name": "Pierre",
+        "weight": 44
+    },
+    {
+        "name": "Verret",
+        "weight": 26
+    },
+    {
+        "name": "Saucier",
+        "weight": 18
+    },
+    {
+        "name": "Rodrigue",
+        "weight": 93
+    },
+    {
+        "name": "Bussières",
+        "weight": 44
+    },
+    {
+        "name": "Fafard",
+        "weight": 26
+    },
+    {
+        "name": "Brissette",
+        "weight": 17
+    },
+    {
+        "name": "Cormier",
+        "weight": 93
+    },
+    {
+        "name": "Damours",
+        "weight": 44
+    },
+    {
+        "name": "Montpetit",
+        "weight": 26
+    },
+    {
+        "name": "Collins",
+        "weight": 17
+    },
+    {
+        "name": "Rivard",
+        "weight": 93
+    },
+    {
+        "name": "Normand",
+        "weight": 44
+    },
+    {
+        "name": "Deblois",
+        "weight": 26
+    },
+    {
+        "name": "Ly",
+        "weight": 17
+    },
+    {
+        "name": "Mathieu",
+        "weight": 93
+    },
+    {
+        "name": "Prudhomme",
+        "weight": 44
+    },
+    {
+        "name": "Boutet",
+        "weight": 26
+    },
+    {
+        "name": "Ruest",
+        "weight": 17
+    },
+    {
+        "name": "Asselin",
+        "weight": 93
+    },
+    {
+        "name": "Lord",
+        "weight": 44
+    },
+    {
+        "name": "Quesnel",
+        "weight": 26
+    },
+    {
+        "name": "Hélie",
+        "weight": 17
+    },
+    {
+        "name": "St-Jean",
+        "weight": 92
+    },
+    {
+        "name": "Baillargeon",
+        "weight": 44
+    },
+    {
+        "name": "Gareau",
+        "weight": 26
+    },
+    {
+        "name": "Lapalme",
+        "weight": 17
+    },
+    {
+        "name": "Plourde",
+        "weight": 92
+    },
+    {
+        "name": "Latour",
+        "weight": 44
+    },
+    {
+        "name": "Corbin",
+        "weight": 26
+    },
+    {
+        "name": "Gordon",
+        "weight": 17
+    },
+    {
+        "name": "Thibodeau",
+        "weight": 91
+    },
+    {
+        "name": "Sévigny",
+        "weight": 44
+    },
+    {
+        "name": "Haché",
+        "weight": 26
+    },
+    {
+        "name": "Bourbeau",
+        "weight": 17
+    },
+    {
+        "name": "Bélisle",
+        "weight": 91
+    },
+    {
+        "name": "Théberge",
+        "weight": 44
+    },
+    {
+        "name": "Taylor",
+        "weight": 26
+    },
+    {
+        "name": "Gonthier",
+        "weight": 17
+    },
+    {
+        "name": "St-Laurent",
+        "weight": 91
+    },
+    {
+        "name": "Plamondon",
+        "weight": 43
+    },
+    {
+        "name": "Amyot",
+        "weight": 26
+    },
+    {
+        "name": "Riverin",
+        "weight": 17
+    },
+    {
+        "name": "Godin",
+        "weight": 91
+    },
+    {
+        "name": "Matte",
+        "weight": 43
+    },
+    {
+        "name": "Lalande",
+        "weight": 26
+    },
+    {
+        "name": "Toussaint",
+        "weight": 17
+    },
+    {
+        "name": "Desbiens",
+        "weight": 90
+    },
+    {
+        "name": "Cousineau",
+        "weight": 43
+    },
+    {
+        "name": "Bourdages",
+        "weight": 26
+    },
+    {
+        "name": "April",
+        "weight": 17
+    },
+    {
+        "name": "Lavigne",
+        "weight": 90
+    },
+    {
+        "name": "Charland",
+        "weight": 43
+    },
+    {
+        "name": "Bazinet",
+        "weight": 26
+    },
+    {
+        "name": "Diaz",
+        "weight": 17
+    },
+    {
+        "name": "Doucet",
+        "weight": 90
+    },
+    {
+        "name": "Rancourt",
+        "weight": 43
+    },
+    {
+        "name": "Jolin",
+        "weight": 26
+    },
+    {
+        "name": "Manseau",
+        "weight": 17
+    },
+    {
+        "name": "Labonté",
+        "weight": 89
+    },
+    {
+        "name": "Bonneau",
+        "weight": 43
+    },
+    {
+        "name": "Marleau",
+        "weight": 26
+    },
+    {
+        "name": "Bachand",
+        "weight": 17
+    },
+    {
+        "name": "Marchand",
+        "weight": 89
+    },
+    {
+        "name": "Royer",
+        "weight": 43
+    },
+    {
+        "name": "Flamand",
+        "weight": 26
+    },
+    {
+        "name": "Hurtubise",
+        "weight": 17
+    },
+    {
+        "name": "Brassard",
+        "weight": 89
+    },
+    {
+        "name": "Petit",
+        "weight": 42
+    },
+    {
+        "name": "Grimard",
+        "weight": 26
+    },
+    {
+        "name": "King",
+        "weight": 17
+    },
+    {
+        "name": "Forget",
+        "weight": 89
+    },
+    {
+        "name": "Lalancette",
+        "weight": 42
+    },
+    {
+        "name": "Perrier",
+        "weight": 26
+    },
+    {
+        "name": "Alexandre",
+        "weight": 17
+    },
+    {
+        "name": "Patel",
+        "weight": 89
+    },
+    {
+        "name": "Lanthier",
+        "weight": 42
+    },
+    {
+        "name": "Nantel",
+        "weight": 25
+    },
+    {
+        "name": "Bleau",
+        "weight": 17
+    },
+    {
+        "name": "Marcotte",
+        "weight": 88
+    },
+    {
+        "name": "Léger",
+        "weight": 42
+    },
+    {
+        "name": "Rhéault",
+        "weight": 25
+    },
+    {
+        "name": "Mark",
+        "weight": 17
+    },
+    {
+        "name": "Béland",
+        "weight": 87
+    },
+    {
+        "name": "Léonard",
+        "weight": 42
+    },
+    {
+        "name": "St-Martin",
+        "weight": 25
+    },
+    {
+        "name": "Beaucage",
+        "weight": 17
+    },
+    {
+        "name": "Larose",
+        "weight": 86
+    },
+    {
+        "name": "St-Cyr",
+        "weight": 42
+    },
+    {
+        "name": "Young",
+        "weight": 25
+    },
+    {
+        "name": "Cauchon",
+        "weight": 17
+    },
+    {
+        "name": "Duval",
+        "weight": 86
+    },
+    {
+        "name": "Charlebois",
+        "weight": 42
+    },
+    {
+        "name": "Couturier",
+        "weight": 25
+    },
+    {
+        "name": "Neveu",
+        "weight": 17
+    },
+    {
+        "name": "Archambault",
+        "weight": 86
+    },
+    {
+        "name": "Paul",
+        "weight": 42
+    },
+    {
+        "name": "Toupin",
+        "weight": 25
+    },
+    {
+        "name": "Painchaud",
+        "weight": 17
+    },
+    {
+        "name": "Maltais",
+        "weight": 86
+    },
+    {
+        "name": "Bujold",
+        "weight": 42
+    },
+    {
+        "name": "Beaumont",
+        "weight": 25
+    },
+    {
+        "name": "Quintal",
+        "weight": 17
+    },
+    {
+        "name": "Trépanier",
+        "weight": 85
+    },
+    {
+        "name": "Choquette",
+        "weight": 42
+    },
+    {
+        "name": "Hétu",
+        "weight": 25
+    },
+    {
+        "name": "Rose",
+        "weight": 17
+    },
+    {
+        "name": "Laliberté",
+        "weight": 85
+    },
+    {
+        "name": "McDonald",
+        "weight": 42
+    },
+    {
+        "name": "Gauvreau",
+        "weight": 25
+    },
+    {
+        "name": "Dupré",
+        "weight": 17
+    },
+    {
+        "name": "Bisson",
+        "weight": 85
+    },
+    {
+        "name": "Bélair",
+        "weight": 42
+    },
+    {
+        "name": "Deveault",
+        "weight": 25
+    },
+    {
+        "name": "Morais",
+        "weight": 17
+    },
+    {
+        "name": "Brisson",
+        "weight": 85
+    },
+    {
+        "name": "Imbeault",
+        "weight": 42
+    },
+    {
+        "name": "Fleurant",
+        "weight": 25
+    },
+    {
+        "name": "Legros",
+        "weight": 17
+    },
+    {
+        "name": "Dufresne",
+        "weight": 85
+    },
+    {
+        "name": "Pigeon",
+        "weight": 41
+    },
+    {
+        "name": "Desautels",
+        "weight": 25
+    },
+    {
+        "name": "Pharand",
+        "weight": 17
+    },
+    {
+        "name": "Beaudry",
+        "weight": 84
+    },
+    {
+        "name": "Caouette",
+        "weight": 41
+    },
+    {
+        "name": "Guy",
+        "weight": 25
+    },
+    {
+        "name": "Boisjoli",
+        "weight": 17
+    },
+    {
+        "name": "Chartrand",
+        "weight": 84
+    },
+    {
+        "name": "Garand",
+        "weight": 41
+    },
+    {
+        "name": "Racette",
+        "weight": 25
+    },
+    {
+        "name": "François",
+        "weight": 17
+    },
+    {
+        "name": "Houde",
+        "weight": 84
+    },
+    {
+        "name": "Brouillette",
+        "weight": 41
+    },
+    {
+        "name": "Tourigny",
+        "weight": 25
+    },
+    {
+        "name": "Cardin",
+        "weight": 17
+    },
+    {
+        "name": "Fréchette",
+        "weight": 84
+    },
+    {
+        "name": "Gobeil",
+        "weight": 41
+    },
+    {
+        "name": "Chayer",
+        "weight": 25
+    },
+    {
+        "name": "Quévillon",
+        "weight": 17
+    },
+    {
+        "name": "Lafontaine",
+        "weight": 84
+    },
+    {
+        "name": "Pineault",
+        "weight": 41
+    },
+    {
+        "name": "Danis",
+        "weight": 25
+    },
+    {
+        "name": "Bergevin",
+        "weight": 17
+    },
+    {
+        "name": "Guillemette",
+        "weight": 84
+    },
+    {
+        "name": "Chiasson",
+        "weight": 41
+    },
+    {
+        "name": "Duclos",
+        "weight": 25
+    },
+    {
+        "name": "Levac",
+        "weight": 17
+    },
+    {
+        "name": "Drolet",
+        "weight": 84
+    },
+    {
+        "name": "Chevalier",
+        "weight": 41
+    },
+    {
+        "name": "Foisy",
+        "weight": 25
+    },
+    {
+        "name": "Kirouac",
+        "weight": 17
+    },
+    {
+        "name": "Vincent",
+        "weight": 83
+    },
+    {
+        "name": "Dugas",
+        "weight": 41
+    },
+    {
+        "name": "Loyer",
+        "weight": 25
+    },
+    {
+        "name": "Busque",
+        "weight": 17
+    },
+    {
+        "name": "Richer",
+        "weight": 83
+    },
+    {
+        "name": "Morel",
+        "weight": 41
+    },
+    {
+        "name": "Valois",
+        "weight": 25
+    },
+    {
+        "name": "Constantineau",
+        "weight": 17
+    },
+    {
+        "name": "Germain",
+        "weight": 83
+    },
+    {
+        "name": "Jones",
+        "weight": 40
+    },
+    {
+        "name": "Couillard",
+        "weight": 25
+    },
+    {
+        "name": "Delâge",
+        "weight": 17
+    },
+    {
+        "name": "Larivière",
+        "weight": 82
+    },
+    {
+        "name": "Tousignant",
+        "weight": 40
+    },
+    {
+        "name": "Laverdière",
+        "weight": 25
+    },
+    {
+        "name": "Valcourt",
+        "weight": 17
+    },
+    {
+        "name": "Ferland",
+        "weight": 82
+    },
+    {
+        "name": "Bibeau",
+        "weight": 40
+    },
+    {
+        "name": "Meilleur",
+        "weight": 25
+    },
+    {
+        "name": "Montminy",
+        "weight": 17
+    },
+    {
+        "name": "Trottier",
+        "weight": 81
+    },
+    {
+        "name": "Blackburn",
+        "weight": 40
+    },
+    {
+        "name": "Dorval",
+        "weight": 25
+    },
+    {
+        "name": "Doiron",
+        "weight": 17
+    },
+    {
+        "name": "Piché",
+        "weight": 81
+    },
+    {
+        "name": "Girouard",
+        "weight": 40
+    },
+    {
+        "name": "Khan",
+        "weight": 25
+    },
+    {
+        "name": "Sauriol",
+        "weight": 17
+    },
+    {
+        "name": "Boulanger",
+        "weight": 80
+    },
+    {
+        "name": "Malo",
+        "weight": 40
+    },
+    {
+        "name": "Murphy",
+        "weight": 25
+    },
+    {
+        "name": "Savage",
+        "weight": 16
+    },
+    {
+        "name": "Sirois",
+        "weight": 79
+    },
+    {
+        "name": "Marois",
+        "weight": 40
+    },
+    {
+        "name": "Forgues",
+        "weight": 25
+    },
+    {
+        "name": "Soulières",
+        "weight": 16
+    },
+    {
+        "name": "Charest",
+        "weight": 79
+    },
+    {
+        "name": "Pichette",
+        "weight": 40
+    },
+    {
+        "name": "Otis",
+        "weight": 24
+    },
+    {
+        "name": "Deraspe",
+        "weight": 16
+    },
+    {
+        "name": "Provost",
+        "weight": 79
+    },
+    {
+        "name": "Comtois",
+        "weight": 39
+    },
+    {
+        "name": "Dorion",
+        "weight": 24
+    },
+    {
+        "name": "Grant",
+        "weight": 16
+    },
+    {
+        "name": "Durand",
+        "weight": 79
+    },
+    {
+        "name": "Morency",
+        "weight": 39
+    },
+    {
+        "name": "Phaneuf",
+        "weight": 24
+    },
+    {
+        "name": "Guérette",
+        "weight": 16
+    },
+    {
+        "name": "Dumas",
+        "weight": 79
+    },
+    {
+        "name": "Laforest",
+        "weight": 39
+    },
+    {
+        "name": "Awashish",
+        "weight": 24
+    },
+    {
+        "name": "Lam",
+        "weight": 16
+    },
+    {
+        "name": "Soucy",
+        "weight": 79
+    },
+    {
+        "name": "Sarrazin",
+        "weight": 39
+    },
+    {
+        "name": "Charpentier",
+        "weight": 24
+    },
+    {
+        "name": "Loranger",
+        "weight": 16
+    },
+    {
+        "name": "Lamoureux",
+        "weight": 79
+    },
+    {
+        "name": "Isabelle",
+        "weight": 39
+    },
+    {
+        "name": "Champoux",
+        "weight": 24
+    },
+    {
+        "name": "Hogue",
+        "weight": 16
+    },
+    {
+        "name": "Lachapelle",
+        "weight": 79
+    },
+    {
+        "name": "Normandin",
+        "weight": 39
+    },
+    {
+        "name": "Desmeules",
+        "weight": 24
+    },
+    {
+        "name": "Carle",
+        "weight": 16
+    },
+    {
+        "name": "Bégin",
+        "weight": 79
+    },
+    {
+        "name": "Guénette",
+        "weight": 39
+    },
+    {
+        "name": "Mitchell",
+        "weight": 24
+    },
+    {
+        "name": "Ferron",
+        "weight": 16
+    },
+    {
+        "name": "Boily",
+        "weight": 78
+    },
+    {
+        "name": "Johnson",
+        "weight": 39
+    },
+    {
+        "name": "Arcand",
+        "weight": 24
+    },
+    {
+        "name": "Lemoine",
+        "weight": 16
+    },
+    {
+        "name": "Croteau",
+        "weight": 78
+    },
+    {
+        "name": "Bordeleau",
+        "weight": 39
+    },
+    {
+        "name": "Tellier",
+        "weight": 24
+    },
+    {
+        "name": "Frigon",
+        "weight": 16
+    },
+    {
+        "name": "Savoie",
+        "weight": 78
+    },
+    {
+        "name": "Jodoin",
+        "weight": 39
+    },
+    {
+        "name": "Anderson",
+        "weight": 24
+    },
+    {
+        "name": "Juteau",
+        "weight": 16
+    },
+    {
+        "name": "Provencher",
+        "weight": 78
+    },
+    {
+        "name": "Groulx",
+        "weight": 39
+    },
+    {
+        "name": "Allen",
+        "weight": 24
+    },
+    {
+        "name": "Forcier",
+        "weight": 16
+    },
+    {
+        "name": "Prévost",
+        "weight": 78
+    },
+    {
+        "name": "Brazeau",
+        "weight": 39
+    },
+    {
+        "name": "Baron",
+        "weight": 24
+    },
+    {
+        "name": "Pinsonneault",
+        "weight": 16
+    },
+    {
+        "name": "Duguay",
+        "weight": 77
+    },
+    {
+        "name": "Simon",
+        "weight": 39
+    },
+    {
+        "name": "Baribeau",
+        "weight": 24
+    },
+    {
+        "name": "Hervieux",
+        "weight": 16
+    },
+    {
+        "name": "Lemire",
+        "weight": 77
+    },
+    {
+        "name": "Belley",
+        "weight": 38
+    },
+    {
+        "name": "Chapdelaine",
+        "weight": 24
+    },
+    {
+        "name": "Daraiche",
+        "weight": 16
+    },
+    {
+        "name": "Delisle",
+        "weight": 76
+    },
+    {
+        "name": "Lebeau",
+        "weight": 38
+    },
+    {
+        "name": "Bacon",
+        "weight": 24
+    },
+    {
+        "name": "McDuff",
+        "weight": 16
+    }
+]
