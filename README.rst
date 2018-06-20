@@ -7,7 +7,7 @@ qng
 Requirements
 ------------
 
-To run **qng**, you will only need Python ≥ 3.6.
+To run **qng**, you will only need Python ≥ 3.4.
 
 For installing, we recommend using the ``pip`` package manager.
 

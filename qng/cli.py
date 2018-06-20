@@ -5,7 +5,6 @@ import os
 import random
 import sys
 import unicodedata
-from typing import Optional
 
 import qng
 
@@ -39,7 +38,7 @@ def _read_name_file(filename):
     return names
 
 
-def _get_names(gender: Optional[str] = None):
+def _get_names(gender=None):
     names = _read_name_file('names.json')
 
     if gender:
@@ -52,14 +51,14 @@ def _get_surnames():
     return _read_name_file('surnames.json')
 
 
-def _get_random_name(name_list) -> str:
+def _get_random_name(name_list):
     length = len(name_list)
     index = random.randrange(length)
 
     return name_list[index]['name']
 
 
-def _get_weighted_random_name(name_list) -> str:
+def _get_weighted_random_name(name_list):
     name_list = sorted(
         name_list,
         key=operator.itemgetter('weight'),
@@ -75,7 +74,7 @@ def _get_weighted_random_name(name_list) -> str:
             return entry['name']
 
 
-def _strip_diacritics(string: str) -> str:
+def _strip_diacritics(string):
     return (
         unicodedata.normalize('NFKD', string)
         .encode('ascii', 'ignore')
@@ -83,7 +82,7 @@ def _strip_diacritics(string: str) -> str:
     )
 
 
-def _snakify_name(name: str) -> str:
+def _snakify_name(name):
     name = _strip_diacritics(name)
     name = name.lower()
     name = name.replace(' ', '-')
@@ -91,7 +90,7 @@ def _snakify_name(name: str) -> str:
     return name
 
 
-def _format_name(name: str, surname: str, part: str, snake_case: bool = False) -> str:
+def _format_name(name, surname, part, snake_case=False):
     sep = ' '
 
     if snake_case:
@@ -104,7 +103,7 @@ def _format_name(name: str, surname: str, part: str, snake_case: bool = False) -
     elif part == 'last':
         disp_name = surname
     else:
-        disp_name = f'{name}{sep}{surname}'
+        disp_name = '{}{}{}'.format(name, sep, surname)
 
     return disp_name
 

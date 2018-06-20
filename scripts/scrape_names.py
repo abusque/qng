@@ -25,7 +25,7 @@ with open(_CANONICAL_NAMES_FILE) as f:
     _CANONICAL_NAMES = json.load(f)
 
 
-def _canonicalize_name(name: str) -> str:
+def _canonicalize_name(name):
     # Initially convert to lower case for comparison with canonical
     # forms.
     name = name.lower()

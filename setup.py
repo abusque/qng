@@ -7,8 +7,8 @@ import setuptools
 _SETUPTOOLS_MIN_VERSION = '30.3'
 
 if setuptools.__version__ < _SETUPTOOLS_MIN_VERSION:
-    print(f'Error: setuptools version {_SETUPTOOLS_MIN_VERSION} '
-          'or greater is required')
+    print('Error: setuptools version {} '
+          'or greater is required'.format(_SETUPTOOLS_MIN_VERSION))
     sys.exit(1)
 
 setuptools.setup()
