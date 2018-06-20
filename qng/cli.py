@@ -90,20 +90,19 @@ def _snakify_name(name):
     return name
 
 
-def _format_name(name, surname, part, snake_case=False):
-    sep = ' '
+def _format_name(name, surname, snake_case=False):
+    if not name or not surname:
+        sep = ''
+    elif snake_case:
+        sep = '_'
+    else:
+        sep = ' '
 
     if snake_case:
         name = _snakify_name(name)
         surname = _snakify_name(surname)
-        sep = '_'
 
-    if part == 'first':
-        disp_name = name
-    elif part == 'last':
-        disp_name = surname
-    else:
-        disp_name = '{}{}{}'.format(name, sep, surname)
+    disp_name = '{}{}{}'.format(name, sep, surname)
 
     return disp_name
 
@@ -117,9 +116,18 @@ def _run(args):
     else:
         get_random_name = _get_random_name
 
-    name = get_random_name(names)
-    surname = get_random_name(surnames)
-    disp_name = _format_name(name, surname, args.part, snake_case=args.snake_case)
+    name = ''
+    surname = ''
+
+    if args.part == 'first':
+        name = get_random_name(names)
+    elif args.part == 'last':
+        surname = get_random_name(surnames)
+    else:
+        name = get_random_name(names)
+        surname = get_random_name(surnames)
+
+    disp_name = _format_name(name, surname, snake_case=args.snake_case)
     print(disp_name)
 
 
