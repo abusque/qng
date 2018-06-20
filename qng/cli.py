@@ -24,6 +24,8 @@ def _parse_args():
                         help='Only print first or last name')
     parser.add_argument('--weighted', '-w', action='store_true',
                         help='Pick names according to their relative popularity')
+    parser.add_argument('-n', type=int, default=1,
+                        help='Number of names to generate')
 
     args = parser.parse_args()
 
@@ -107,6 +109,21 @@ def _format_name(name, surname, snake_case=False):
     return disp_name
 
 
+def _generate_name(get_random_name, names, surnames, part, snake_case):
+    name = ''
+    surname = ''
+
+    if part == 'first':
+        name = get_random_name(names)
+    elif part == 'last':
+        surname = get_random_name(surnames)
+    else:
+        name = get_random_name(names)
+        surname = get_random_name(surnames)
+
+    return _format_name(name, surname, snake_case=snake_case)
+
+
 def _run(args):
     names = _get_names(gender=args.gender)
     surnames = _get_surnames()
@@ -116,19 +133,10 @@ def _run(args):
     else:
         get_random_name = _get_random_name
 
-    name = ''
-    surname = ''
-
-    if args.part == 'first':
-        name = get_random_name(names)
-    elif args.part == 'last':
-        surname = get_random_name(surnames)
-    else:
-        name = get_random_name(names)
-        surname = get_random_name(surnames)
-
-    disp_name = _format_name(name, surname, snake_case=args.snake_case)
-    print(disp_name)
+    for _ in range(args.n):
+        disp_name = _generate_name(get_random_name, names, surnames, args.part,
+                                   args.snake_case)
+        print(disp_name)
 
 
 def main():
