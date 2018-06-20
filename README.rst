@@ -62,6 +62,12 @@ Generate a name formatted as "snake_case" without any diacritics
    qng --snake-case
 
 
+Here's how you could use this to name a Docker container:
+
+.. code-block:: sh
+
+   docker run --name $(qng --snake-case) hello-world
+
 All the above options may be combined if desired. Refer to the help
 for more details:
 
