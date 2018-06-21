@@ -18,14 +18,16 @@ def _parse_args():
 
     parser.add_argument('--gender', '-g', choices=['male', 'female'],
                         help='Filter first names by gender')
-    parser.add_argument('--snake-case', '-s', action='store_true',
-                        help='Print names in "snake_case" format')
-    parser.add_argument('--part', '-p', choices=['first', 'last'],
-                        help='Only print first or last name')
-    parser.add_argument('--weighted', '-w', action='store_true',
-                        help='Pick names according to their relative popularity')
     parser.add_argument('-n', type=int, default=1,
                         help='Number of names to generate')
+    parser.add_argument('--no-nl', '-N', action='store_true',
+                        help='Do not print a newline after the generated name')
+    parser.add_argument('--part', '-p', choices=['first', 'last'],
+                        help='Only print first or last name')
+    parser.add_argument('--snake-case', '-s', action='store_true',
+                        help='Print names in "snake_case" format')
+    parser.add_argument('--weighted', '-w', action='store_true',
+                        help='Pick names according to their relative popularity')
 
     args = parser.parse_args()
 
@@ -133,10 +135,15 @@ def _run(args):
     else:
         get_random_name = _get_random_name
 
+    endl = '\n'
+
+    if args.no_nl:
+        endl = ''
+
     for _ in range(args.n):
         disp_name = _generate_name(get_random_name, names, surnames, args.part,
                                    args.snake_case)
-        print(disp_name)
+        print(disp_name, end=endl)
 
 
 def main():
