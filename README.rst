@@ -2,8 +2,10 @@
 qng
 ===
 
-.. image:: https://badge.fury.io/py/qng.svg
-   :target: https://badge.fury.io/py/qng
+
+.. image:: https://img.shields.io/pypi/v/qng.svg
+   :target: https://pypi.org/project/qng/
+   :alt: PyPI
 
 **qng**, the Queb name generator.
 
