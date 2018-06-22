@@ -2,6 +2,9 @@
 qng
 ===
 
+.. image:: https://badge.fury.io/py/qng.svg
+   :target: https://badge.fury.io/py/qng
+
 **qng**, the Queb name generator.
 
 Requirements
