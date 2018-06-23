@@ -31,6 +31,8 @@ def _parse_args():
                         help='Only print first or last name')
     parser.add_argument('--snake-case', '-s', action='store_true',
                         help='Print names in "snake_case" format')
+    parser.add_argument('--version', '-V', action='version',
+                        version='%(prog)s {}'.format(qng.__version__))
     parser.add_argument('--weighted', '-w', action='store_true',
                         help='Pick names according to their relative popularity')
 
