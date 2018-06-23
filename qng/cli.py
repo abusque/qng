@@ -29,6 +29,8 @@ def _parse_args():
                         help='Do not print a newline after the generated name')
     parser.add_argument('--part', '-p', choices=['first', 'last'],
                         help='Only print first or last name')
+    parser.add_argument('--print0', '-0', action='store_true',
+                        help='Print a null-byte instead of newline after the generated name')
     parser.add_argument('--snake-case', '-s', action='store_true',
                         help='Print names in "snake_case" format')
     parser.add_argument('--version', '-V', action='version',
@@ -40,6 +42,9 @@ def _parse_args():
 
     if args.n > 1 and args.no_nl:
         _print_error('argument --no-nl/-N not allowed with -n > 1')
+
+    if args.no_nl and args.print0:
+        _print_error('argument --no-nl/-N not allowed with --print0/-0')
 
     return args
 
@@ -149,6 +154,8 @@ def _run(args):
 
     if args.no_nl:
         endl = ''
+    elif args.print0:
+        endl = '\0'
 
     for _ in range(args.n):
         disp_name = _generate_name(get_random_name, names, surnames, args.part,
