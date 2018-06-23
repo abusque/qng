@@ -80,6 +80,39 @@ for more details:
 
    qng --help
 
+Python API
+^^^^^^^^^^
+
+You can also use **qng** through its Python API, for integration with
+other applications.
+
+Here is a simple example of programmatic usage:
+
+.. code-block:: python
+
+   import qng.generator
+
+   generator = qng.generator.QuebNameGenerator()
+   name = generator.generate()
+   print(name)
+
+The ``generate()`` function also supports the following options, with
+the same meaning as the corresponding CLI options:
+
+.. code-block:: python
+
+   import qng.generator
+
+   generator = qng.generator.QuebNameGenerator()
+   name = generator.generate(
+       gender='male',
+       part='first',
+       snake_case=True,
+       weighted=True,
+   )
+   print(name)
+
+Refer to the documentation in the source file for more details.
 
 Development
 -----------
