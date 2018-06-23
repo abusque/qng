@@ -13,6 +13,11 @@ _BASE_DIR = os.path.dirname(os.path.realpath(__file__))
 _DATA_DIR = os.path.join(_BASE_DIR, 'data')
 
 
+def _print_error(msg):
+    print('qng: error: {}'.format(msg), file=sys.stderr)
+    sys.exit(1)
+
+
 def _parse_args():
     parser = argparse.ArgumentParser(description=qng.__description__)
 
@@ -30,6 +35,9 @@ def _parse_args():
                         help='Pick names according to their relative popularity')
 
     args = parser.parse_args()
+
+    if args.n > 1 and args.no_nl:
+        _print_error('argument --no-nl/-N not allowed with -n > 1')
 
     return args
 
