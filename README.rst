@@ -2,10 +2,11 @@
 qng
 ===
 
-
 .. image:: https://img.shields.io/pypi/v/qng.svg
    :target: https://pypi.org/project/qng/
    :alt: PyPI
+
+*Documentation aussi disponible en* `français <README.fr.rst>`_
 
 **qng**, the Queb name generator.
 
@@ -42,7 +43,6 @@ Once installed, you can use **qng** by running the following command:
 
    qng
 
-
 This will generate a single random Queb name.
 
 You can also generate names for a specific gender:
@@ -51,6 +51,11 @@ You can also generate names for a specific gender:
 
    qng --gender male
 
+Generate only part of a name:
+
+.. code-block:: sh
+
+   qng --part first
 
 Generate names according to their relative popularity:
 
@@ -58,14 +63,12 @@ Generate names according to their relative popularity:
 
    qng --weighted
 
-
 Generate a name formatted as "snake_case" without any diacritics
 (useful for naming your containers):
 
 .. code-block:: sh
 
    qng --snake-case
-
 
 Here's how you could use this to name a Docker container:
 
