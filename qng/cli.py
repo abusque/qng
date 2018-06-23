@@ -41,7 +41,7 @@ def _parse_args():
     return args
 
 def _run(args):
-    name_generator = qng.generator.QuebNameGenerator(gender=args.gender)
+    name_generator = qng.generator.QuebNameGenerator()
 
     if args.no_nl:
         endl = ''
@@ -52,6 +52,7 @@ def _run(args):
 
     for _ in range(args.n):
         disp_name = name_generator.generate(
+            gender=args.gender,
             part=args.part,
             snake_case=args.snake_case,
             weighted=args.weighted,

@@ -9,7 +9,7 @@ class QuebNameGenerator:
     _BASE_DIR = os.path.dirname(os.path.realpath(__file__))
     _DATA_DIR = os.path.join(_BASE_DIR, 'data')
 
-    def __init__(self, gender=None):
+    def __init__(self):
         """Instantiate a Queb name generator.
 
         The generator reads from lists of names and surnames, located
@@ -20,21 +20,18 @@ class QuebNameGenerator:
         containing the "name" itself, a "weight" value denoting the
         relative frequency of the name, and for first names, a
         "gender" value, which can be either "male" or "female".
-
-        Note: we should be able to specify the "gender" parameter at
-        generation time, rather than instantiation, but this isn't
-        possible with the current implementation.
-
-        :param str gender: Gender of names to generate, one of 'male'
-            or 'female'. If not specified, either gender can be
-            generated. (optional)
         """
-        self._names = self._get_names(gender=gender)
+        self._names = self._get_names()
+        self._male_names = self._get_male_names()
+        self._female_names = self._get_female_names()
         self._surnames = self._get_surnames()
 
-    def generate(self, part=None, snake_case=False, weighted=False):
+    def generate(self, gender=None, part=None, snake_case=False, weighted=False):
         """Generate a Queb name.
 
+        :param str gender: Gender of name to generate, one of 'male'
+            or 'female'. If not specified, either gender can be
+            generated. (optional)
         :param str part: Part of the name to generate, one of 'first'
             or 'last'. If not specified, full names are
             generated. (optional)
@@ -50,15 +47,22 @@ class QuebNameGenerator:
         else:
             get_random_name = self._get_random_name
 
+        if gender == 'male':
+            first_names = self._male_names
+        elif gender == 'female':
+            first_names = self._female_names
+        else:
+            first_names = self._names
+
         name = ''
         surname = ''
 
         if part == 'first':
-            name = get_random_name(self._names)
+            name = get_random_name(first_names)
         elif part == 'last':
             surname = get_random_name(self._surnames)
         else:
-            name = get_random_name(self._names)
+            name = get_random_name(first_names)
             surname = get_random_name(self._surnames)
 
         return self._format_name(name, surname, snake_case=snake_case)
@@ -76,20 +80,20 @@ class QuebNameGenerator:
 
         return names
 
-    def _get_names(self, gender=None):
+    def _get_names(self):
         """Get the list of first names.
 
-        :param str gender: Gender of names to keep in list, one of
-            'male' or 'female'. If not specified, both genders are
-            kept. (optional)
         :return: A list of first name entries.
         """
         names = self._read_name_file('names.json')
 
-        if gender:
-            names = [name for name in names if name['gender'] == gender]
-
         return names
+
+    def _get_male_names(self):
+        return [name for name in self._names if name['gender'] == 'male']
+
+    def _get_female_names(self):
+        return [name for name in self._names if name['gender'] == 'female']
 
     def _get_surnames(self):
         """Get the list of surnames.
