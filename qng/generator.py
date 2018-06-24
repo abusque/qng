@@ -67,7 +67,6 @@ class QuebNameGenerator:
 
         return self._format_name(name, surname, snake_case=snake_case)
 
-
     def _read_name_file(self, filename):
         """Read a name file from the data directory
 
@@ -86,21 +85,43 @@ class QuebNameGenerator:
         :return: A list of first name entries.
         """
         names = self._read_name_file('names.json')
+        names = self._compute_weights(names)
 
         return names
 
     def _get_male_names(self):
-        return [name for name in self._names if name['gender'] == 'male']
+        names = [name for name in self._names if name['gender'] == 'male']
+        names = self._compute_weights(names)
+
+        return names
 
     def _get_female_names(self):
-        return [name for name in self._names if name['gender'] == 'female']
+        names = [name for name in self._names if name['gender'] == 'female']
+        names = self._compute_weights(names)
+
+        return names
 
     def _get_surnames(self):
         """Get the list of surnames.
 
         :return: A list of surname entries.
         """
-        return self._read_name_file('surnames.json')
+        names = self._read_name_file('surnames.json')
+        names = self._compute_weights(names)
+
+        return names
+
+    @staticmethod
+    def _compute_weights(name_list):
+        name_list = sorted(name_list, key=operator.itemgetter('weight'))
+
+        cumulative_weight = 0
+        for name_entry in name_list:
+            name_entry['weight_low'] = cumulative_weight
+            cumulative_weight += name_entry['weight']
+            name_entry['weight_high'] = cumulative_weight
+
+        return name_list
 
     @staticmethod
     def _get_random_name(name_list):
@@ -125,25 +146,24 @@ class QuebNameGenerator:
         list. If one name is twice as popular as another one, then it
         is twice as likely to get chosen.
 
-        Note: this function could be optimized for repeated calls by
-        not re-computing the total and cumuilative weights for each
-        invocation.
-
         :param name_list: The list of names from which to pick.
         :return str: A randomly chosen name.
         """
-        name_list = sorted(
-            name_list,
-            key=operator.itemgetter('weight'),
-            reverse=True,
-        )
-
-        total_weight = sum(entry['weight'] for entry in name_list)
+        total_weight = name_list[-1]['weight_high']
         random_weight = random.randrange(total_weight + 1)
 
-        for entry in name_list:
-            random_weight -= entry['weight']
-            if random_weight <= 0:
+        left = 0
+        right = len(name_list) - 1
+
+        while left <= right:
+            index = (left + right) // 2
+            entry = name_list[index]
+
+            if random_weight > entry['weight_high']:
+                left = index + 1
+            elif random_weight < entry['weight_low']:
+                right = index - 1
+            else:
                 return entry['name']
 
     def _format_name(self, name, surname, snake_case=False):
