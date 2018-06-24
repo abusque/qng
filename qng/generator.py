@@ -91,15 +91,19 @@ class QuebNameGenerator:
         return names
 
     def _get_male_names(self):
-        names = copy.deepcopy(self._names)
-        names = [name for name in names if name['gender'] == 'male']
+        names = [
+            copy.deepcopy(name) for name in self._names
+            if name['gender'] == 'male'
+        ]
         names = self._compute_weights(names)
 
         return names
 
     def _get_female_names(self):
-        names = copy.deepcopy(self._names)
-        names = [name for name in names if name['gender'] == 'female']
+        names = [
+            copy.deepcopy(name) for name in self._names
+            if name['gender'] == 'female'
+        ]
         names = self._compute_weights(names)
 
         return names
