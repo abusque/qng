@@ -76,6 +76,9 @@ Here's how you could use this to name a Docker container:
 
    docker run --name $(qng --snake-case) hello-world
 
+To automatically use Queb names with Docker containers, see also
+`dockeb <https://github.com/abusque/dockeb>`_.
+
 All the above options may be combined if desired. Refer to the help
 for more details:
 

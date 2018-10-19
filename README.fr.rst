@@ -80,6 +80,10 @@ Voici comment l'appliquer pour nommer un container Docker:
 
    docker run --name $(qng --snake-case) hello-world
 
+Pour automatiquement générer un nom Queb pour vos containers Docker,
+vous pouvez aussi utiliser
+`dockeb <https://github.com/abusque/dockeb>`_.
+
 Toutes les options précédentes peuvent être combinées si
 voulu. Référez-vous à la commande d'aide pour plus de détails:
 
