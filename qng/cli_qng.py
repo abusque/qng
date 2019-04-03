@@ -18,11 +18,12 @@ def _parse_args():
                         help='Filter first names by gender')
     parser.add_argument('--snake-case', '-s', action='store_true',
                         help='Print names in "snake_case" format')
+    parser.add_argument('--kebab-case', '-k', action='store_true',
+                        help='Print names in "kebab-case" format')
     parser.add_argument('--weighted', '-w', action='store_true',
                         help='Pick names according to their relative popularity')
-
     args = parser.parse_args()
-
+    common._validate_snake_kebab_args(args)
     return args
 
 
@@ -81,7 +82,7 @@ def _run(args):
 
     name = get_random_name(names)
     surname = get_random_name(surnames)
-    common._print_name(name, surname, args.snake_case)
+    common._print_name(name, surname, args)
 
 
 def main():

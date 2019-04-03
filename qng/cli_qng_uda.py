@@ -19,7 +19,10 @@ def _parse_args():
                         help='Print names in "snake_case" format')
     parser.add_argument('--type', '-t', choices=['actor', 'host', 'singer'],
                         help='Filter names by UDA membership type')
+    parser.add_argument('--kebab-case', '-k', action='store_true',
+                        help='Print names in "kebab-case" format')
     args = parser.parse_args()
+    common._validate_snake_kebab_args(args)
     return args
 
 
@@ -60,7 +63,7 @@ def _run(args):
         _append_entries(entries, 'singers-m', 'singers-f', args.gender)
 
     entry = _get_random_entry(entries)
-    common._print_name(entry['name'], entry['surname'], args.snake_case)
+    common._print_name(entry['name'], entry['surname'], args)
 
 
 def main():
