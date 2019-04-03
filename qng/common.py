@@ -5,6 +5,7 @@ import os
 import random
 import sys
 import unicodedata
+import re
 from typing import Optional
 
 import qng
@@ -25,8 +26,7 @@ def _strip_diacritics(string: str) -> str:
 def _snakify_name(name: str) -> str:
     name = _strip_diacritics(name)
     name = name.lower()
-    name = name.replace(' ', '-')
-
+    name = re.sub(r'[^a-zA-Z0-9_]', '_', name)
     return name
 
 
