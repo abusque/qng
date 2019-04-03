@@ -1,0 +1,2634 @@
+[
+  {
+    "name": "Mathieu",
+    "surname": "Abel"
+  },
+  {
+    "name": "Bernard",
+    "surname": "Adamus"
+  },
+  {
+    "name": "Pierre-François",
+    "surname": "Alcide"
+  },
+  {
+    "name": "Jean-Charles",
+    "surname": "Algan"
+  },
+  {
+    "name": "Jean-Sébastien",
+    "surname": "Allaire"
+  },
+  {
+    "name": "Jacques A.",
+    "surname": "Allard"
+  },
+  {
+    "name": "Frédéric",
+    "surname": "Antoun"
+  },
+  {
+    "name": "Benoit",
+    "surname": "Archambault"
+  },
+  {
+    "name": "Neil",
+    "surname": "Aronoff"
+  },
+  {
+    "name": "Guillaume",
+    "surname": "Arsenault"
+  },
+  {
+    "name": "Joël",
+    "surname": "Arsenault"
+  },
+  {
+    "name": "Luc",
+    "surname": "Arsenault"
+  },
+  {
+    "name": "Marc",
+    "surname": "Arseno"
+  },
+  {
+    "name": "Martin",
+    "surname": "Auclair"
+  },
+  {
+    "name": "Bryan",
+    "surname": "Audet"
+  },
+  {
+    "name": "Jean-Philippe",
+    "surname": "Audet"
+  },
+  {
+    "name": "Charles",
+    "surname": "Auger"
+  },
+  {
+    "name": "Guy",
+    "surname": "Auger"
+  },
+  {
+    "name": "Marcel",
+    "surname": "Aymar"
+  },
+  {
+    "name": "Jamil",
+    "surname": "Azzaoui"
+  },
+  {
+    "name": "DAN",
+    "surname": "BIGRAS"
+  },
+  {
+    "name": "Martin",
+    "surname": "Bachand"
+  },
+  {
+    "name": "Maxime",
+    "surname": "Barzel"
+  },
+  {
+    "name": "Stéphane",
+    "surname": "Bass"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Bastien"
+  },
+  {
+    "name": "Jean",
+    "surname": "Baudouin"
+  },
+  {
+    "name": "Bobby",
+    "surname": "Bazinet"
+  },
+  {
+    "name": "Louis Alexandre",
+    "surname": "Beauchemin"
+  },
+  {
+    "name": "Jean-Francois",
+    "surname": "Beaudet"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Beaudet"
+  },
+  {
+    "name": "Stéphane",
+    "surname": "Beaudin"
+  },
+  {
+    "name": "Jean-Alexandre",
+    "surname": "Beaudoin"
+  },
+  {
+    "name": "Eric",
+    "surname": "Beaudry"
+  },
+  {
+    "name": "Simon",
+    "surname": "Beaudry"
+  },
+  {
+    "name": "Pierre-Marcel",
+    "surname": "Beaulieu"
+  },
+  {
+    "name": "Stéphane",
+    "surname": "Beaulieu"
+  },
+  {
+    "name": "Guillaume",
+    "surname": "Beauregard"
+  },
+  {
+    "name": "Frédéric",
+    "surname": "Beauséjour"
+  },
+  {
+    "name": "Marc",
+    "surname": "Belleau"
+  },
+  {
+    "name": "Paul",
+    "surname": "Bellemare"
+  },
+  {
+    "name": "Alexandre",
+    "surname": "Belliard"
+  },
+  {
+    "name": "Albert",
+    "surname": "Belzile"
+  },
+  {
+    "name": "David H.",
+    "surname": "Benson"
+  },
+  {
+    "name": "Jean-Clément",
+    "surname": "Bergeron"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Bergeron"
+  },
+  {
+    "name": "Pierre-Etienne",
+    "surname": "Bergeron"
+  },
+  {
+    "name": "Philémon",
+    "surname": "Bergeron-Langlois"
+  },
+  {
+    "name": "Francis",
+    "surname": "Bernier"
+  },
+  {
+    "name": "Louis",
+    "surname": "Bernier"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Bertrand"
+  },
+  {
+    "name": "Ivan",
+    "surname": "Bielinski"
+  },
+  {
+    "name": "Alexandre",
+    "surname": "Bilodeau"
+  },
+  {
+    "name": "Émile",
+    "surname": "Bilodeau"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Biron"
+  },
+  {
+    "name": "Paul",
+    "surname": "Bisson"
+  },
+  {
+    "name": "Paul R.",
+    "surname": "Bisson"
+  },
+  {
+    "name": "Manuel",
+    "surname": "Blais"
+  },
+  {
+    "name": "Pierre-Luc",
+    "surname": "Blais"
+  },
+  {
+    "name": "Steve",
+    "surname": "Blanchard"
+  },
+  {
+    "name": "Pascal",
+    "surname": "Blanchet"
+  },
+  {
+    "name": "Roland",
+    "surname": "Blouin"
+  },
+  {
+    "name": "Marco",
+    "surname": "Bocchicchio"
+  },
+  {
+    "name": "André",
+    "surname": "Boileau"
+  },
+  {
+    "name": "Pierre-Luc",
+    "surname": "Boisvert"
+  },
+  {
+    "name": "Martin",
+    "surname": "Bolduc"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Bolduc"
+  },
+  {
+    "name": "Michel (Edgar)",
+    "surname": "Bordeleau"
+  },
+  {
+    "name": "Edgar",
+    "surname": "Bori"
+  },
+  {
+    "name": "Christian",
+    "surname": "Bouchard"
+  },
+  {
+    "name": "Patrick",
+    "surname": "Bouchard"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Boucher"
+  },
+  {
+    "name": "Gaith",
+    "surname": "Boucher"
+  },
+  {
+    "name": "Danny",
+    "surname": "Boudreau"
+  },
+  {
+    "name": "Anthony",
+    "surname": "Bouffard"
+  },
+  {
+    "name": "Guillaume",
+    "surname": "Boulay"
+  },
+  {
+    "name": "Nicolas",
+    "surname": "Boulerice"
+  },
+  {
+    "name": "Samuel",
+    "surname": "Boulianne"
+  },
+  {
+    "name": "Dave",
+    "surname": "Bourgeois"
+  },
+  {
+    "name": "Ludovick",
+    "surname": "Bourgeois"
+  },
+  {
+    "name": "Jeannot",
+    "surname": "Bournival"
+  },
+  {
+    "name": "Benoit",
+    "surname": "Bourque"
+  },
+  {
+    "name": "Charles",
+    "surname": "Boyer"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Brach"
+  },
+  {
+    "name": "Manuel",
+    "surname": "Brault"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Brault"
+  },
+  {
+    "name": "LG",
+    "surname": "Breton"
+  },
+  {
+    "name": "Luc",
+    "surname": "Breton"
+  },
+  {
+    "name": "Jonathan",
+    "surname": "Brochu"
+  },
+  {
+    "name": "Eric",
+    "surname": "Brousseau"
+  },
+  {
+    "name": "Jeffrey",
+    "surname": "Brown"
+  },
+  {
+    "name": "Nils",
+    "surname": "Brown"
+  },
+  {
+    "name": "Patrick",
+    "surname": "Brown"
+  },
+  {
+    "name": "Claude Éric",
+    "surname": "Brunelle"
+  },
+  {
+    "name": "Marc-Antoine",
+    "surname": "Brûlé"
+  },
+  {
+    "name": "Nicholas",
+    "surname": "Burns"
+  },
+  {
+    "name": "David",
+    "surname": "Bussières"
+  },
+  {
+    "name": "Benjamin T.",
+    "surname": "Butterfield"
+  },
+  {
+    "name": "Jonathan",
+    "surname": "Bédard"
+  },
+  {
+    "name": "Nicolas",
+    "surname": "Bédard"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Bédard"
+  },
+  {
+    "name": "Antoine",
+    "surname": "Bélanger"
+  },
+  {
+    "name": "Claude",
+    "surname": "Bélanger"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Bélanger"
+  },
+  {
+    "name": "Gilles",
+    "surname": "Bélanger"
+  },
+  {
+    "name": "Guy",
+    "surname": "Bélanger"
+  },
+  {
+    "name": "Michel",
+    "surname": "Bénac"
+  },
+  {
+    "name": "FELIX-ANTOINE",
+    "surname": "COUTURIER"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Cabena"
+  },
+  {
+    "name": "Claudel",
+    "surname": "Callender"
+  },
+  {
+    "name": "Marco",
+    "surname": "Calliari"
+  },
+  {
+    "name": "Paul",
+    "surname": "Campagne"
+  },
+  {
+    "name": "Luc",
+    "surname": "Campeau"
+  },
+  {
+    "name": "Erik",
+    "surname": "Caouette"
+  },
+  {
+    "name": "Sonny",
+    "surname": "Caouette"
+  },
+  {
+    "name": "Paul",
+    "surname": "Cargnello"
+  },
+  {
+    "name": "Marc-André",
+    "surname": "Caron"
+  },
+  {
+    "name": "Jean-Sébastien",
+    "surname": "Carré"
+  },
+  {
+    "name": "Laurence",
+    "surname": "Castera"
+  },
+  {
+    "name": "Bernard",
+    "surname": "Cayouette"
+  },
+  {
+    "name": "Michel",
+    "surname": "Cervant"
+  },
+  {
+    "name": "Mario Toyo",
+    "surname": "Chagnon"
+  },
+  {
+    "name": "Michel",
+    "surname": "Chalifoux"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Chalifoux"
+  },
+  {
+    "name": "Simon",
+    "surname": "Chalifoux"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Champoux"
+  },
+  {
+    "name": "Pascal",
+    "surname": "Charbonneau"
+  },
+  {
+    "name": "Jérôme",
+    "surname": "Charlebois"
+  },
+  {
+    "name": "Robert",
+    "surname": "Charlebois"
+  },
+  {
+    "name": "Jacques-Olivier",
+    "surname": "Chartier"
+  },
+  {
+    "name": "Denis L.",
+    "surname": "Chartrand"
+  },
+  {
+    "name": "Rémi",
+    "surname": "Chassé"
+  },
+  {
+    "name": "Pascal",
+    "surname": "Chaumont"
+  },
+  {
+    "name": "Florian",
+    "surname": "Chiasson"
+  },
+  {
+    "name": "Christian",
+    "surname": "Chiosa"
+  },
+  {
+    "name": "Mario",
+    "surname": "Chénart"
+  },
+  {
+    "name": "Nicola",
+    "surname": "Ciccone"
+  },
+  {
+    "name": "Yvon",
+    "surname": "Claude"
+  },
+  {
+    "name": "François-Emmanuel",
+    "surname": "Cloutier"
+  },
+  {
+    "name": "William",
+    "surname": "Cloutier"
+  },
+  {
+    "name": "Jean",
+    "surname": "Collard"
+  },
+  {
+    "name": "Jean-Guy",
+    "surname": "Comeau"
+  },
+  {
+    "name": "Michel",
+    "surname": "Comeau"
+  },
+  {
+    "name": "Claude",
+    "surname": "Corbeil"
+  },
+  {
+    "name": "Jim",
+    "surname": "Corcoran"
+  },
+  {
+    "name": "Louis-Jean",
+    "surname": "Cormier"
+  },
+  {
+    "name": "Michel",
+    "surname": "Corriveau"
+  },
+  {
+    "name": "Sylvain",
+    "surname": "Cossette"
+  },
+  {
+    "name": "Alan",
+    "surname": "Coté"
+  },
+  {
+    "name": "Alain",
+    "surname": "Coulombe"
+  },
+  {
+    "name": "Georges",
+    "surname": "Coulombe"
+  },
+  {
+    "name": "Vincent",
+    "surname": "Coulombe"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Courchesne-Lebœuf"
+  },
+  {
+    "name": "Alain",
+    "surname": "Couture"
+  },
+  {
+    "name": "Jean-Marc",
+    "surname": "Couture"
+  },
+  {
+    "name": "Jérôme",
+    "surname": "Couture"
+  },
+  {
+    "name": "Jean-Pierre",
+    "surname": "Couturier"
+  },
+  {
+    "name": "David",
+    "surname": "Cronkite"
+  },
+  {
+    "name": "Michel Bruno",
+    "surname": "Cusson"
+  },
+  {
+    "name": "Normand",
+    "surname": "Cyr"
+  },
+  {
+    "name": "Pierre-Olivier",
+    "surname": "Cyr"
+  },
+  {
+    "name": "Denis",
+    "surname": "Côté"
+  },
+  {
+    "name": "Dominique",
+    "surname": "Côté"
+  },
+  {
+    "name": "Jean-Luke",
+    "surname": "Côté"
+  },
+  {
+    "name": "Jean-Marie",
+    "surname": "Côté"
+  },
+  {
+    "name": "Michel G.",
+    "surname": "Côté"
+  },
+  {
+    "name": "Paul-Etienne",
+    "surname": "Côté"
+  },
+  {
+    "name": "Pierre-Denis",
+    "surname": "Côté"
+  },
+  {
+    "name": "Sébastien",
+    "surname": "Côté"
+  },
+  {
+    "name": "Yanick",
+    "surname": "Côté"
+  },
+  {
+    "name": "BOOM",
+    "surname": "DESJARDINS"
+  },
+  {
+    "name": "Dominic",
+    "surname": "Dagenais"
+  },
+  {
+    "name": "Sébastien",
+    "surname": "Daigle"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Daignault"
+  },
+  {
+    "name": "Paul",
+    "surname": "Daraîche"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Daviet"
+  },
+  {
+    "name": "Jonathan",
+    "surname": "Davis"
+  },
+  {
+    "name": "Germain",
+    "surname": "De Blois"
+  },
+  {
+    "name": "Alexandre",
+    "surname": "De Grandpré"
+  },
+  {
+    "name": "Alexandre",
+    "surname": "De Grosbois-Garand"
+  },
+  {
+    "name": "David",
+    "surname": "De La Durantaye"
+  },
+  {
+    "name": "Luc",
+    "surname": "De Larochellière"
+  },
+  {
+    "name": "Paulo",
+    "surname": "De Ramos"
+  },
+  {
+    "name": "Alain",
+    "surname": "De Roque"
+  },
+  {
+    "name": "David Henrique",
+    "surname": "De Souza Santos"
+  },
+  {
+    "name": "Guido",
+    "surname": "Del Fabbro"
+  },
+  {
+    "name": "Jordan",
+    "surname": "Delage"
+  },
+  {
+    "name": "Berthier",
+    "surname": "Denys"
+  },
+  {
+    "name": "Michel",
+    "surname": "Desbiens"
+  },
+  {
+    "name": "Martin",
+    "surname": "Deschamps"
+  },
+  {
+    "name": "Maurice",
+    "surname": "Deschamps"
+  },
+  {
+    "name": "Richard L.",
+    "surname": "Desjardins"
+  },
+  {
+    "name": "Paul",
+    "surname": "Deslauriers"
+  },
+  {
+    "name": "William",
+    "surname": "Deslauriers"
+  },
+  {
+    "name": "Éric",
+    "surname": "Desranleau"
+  },
+  {
+    "name": "Dominic",
+    "surname": "Desrochers"
+  },
+  {
+    "name": "Martin",
+    "surname": "Dessureault"
+  },
+  {
+    "name": "Peter",
+    "surname": "Dickie"
+  },
+  {
+    "name": "Yves",
+    "surname": "Dionne"
+  },
+  {
+    "name": "Alexander",
+    "surname": "Dobson"
+  },
+  {
+    "name": "Guillaume",
+    "surname": "Doiron"
+  },
+  {
+    "name": "Simon",
+    "surname": "Dolan"
+  },
+  {
+    "name": "François",
+    "surname": "Dompierre"
+  },
+  {
+    "name": "Christian",
+    "surname": "Dorion"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Doré"
+  },
+  {
+    "name": "Sylvain",
+    "surname": "Doré"
+  },
+  {
+    "name": "Etienne",
+    "surname": "Drapeau"
+  },
+  {
+    "name": "Joël",
+    "surname": "Drapeau"
+  },
+  {
+    "name": "Jocelyn",
+    "surname": "Drolet"
+  },
+  {
+    "name": "Claude",
+    "surname": "Dubois"
+  },
+  {
+    "name": "Michel",
+    "surname": "Dubord"
+  },
+  {
+    "name": "François J.",
+    "surname": "Dubé"
+  },
+  {
+    "name": "Martin",
+    "surname": "Dubé"
+  },
+  {
+    "name": "Pierre (Duke)",
+    "surname": "Ducas"
+  },
+  {
+    "name": "Michel",
+    "surname": "Ducharme"
+  },
+  {
+    "name": "Pascal",
+    "surname": "Dufour"
+  },
+  {
+    "name": "Stéphane",
+    "surname": "Dufour"
+  },
+  {
+    "name": "Alain",
+    "surname": "Duguay"
+  },
+  {
+    "name": "Marc",
+    "surname": "Duguay"
+  },
+  {
+    "name": "Raôul",
+    "surname": "Duguay"
+  },
+  {
+    "name": "Richard",
+    "surname": "Duguay"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Dumas"
+  },
+  {
+    "name": "Steve",
+    "surname": "Dumas"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Dumont"
+  },
+  {
+    "name": "Elie",
+    "surname": "Dupuis"
+  },
+  {
+    "name": "Etienne",
+    "surname": "Dupuis"
+  },
+  {
+    "name": "Pierre-Luc",
+    "surname": "Dupuis"
+  },
+  {
+    "name": "Phil",
+    "surname": "Dutton"
+  },
+  {
+    "name": "François Sunny",
+    "surname": "Duval"
+  },
+  {
+    "name": "Michel",
+    "surname": "Duval"
+  },
+  {
+    "name": "Marc",
+    "surname": "Déry"
+  },
+  {
+    "name": "Alexandre",
+    "surname": "Désilets"
+  },
+  {
+    "name": "Cosimo",
+    "surname": "Eliseo"
+  },
+  {
+    "name": "Yon",
+    "surname": "Erkoreka"
+  },
+  {
+    "name": "Gaétan",
+    "surname": "Essiambre"
+  },
+  {
+    "name": "Reggi",
+    "surname": "Ettore"
+  },
+  {
+    "name": "El Hadji",
+    "surname": "Fall Diouf"
+  },
+  {
+    "name": "Simon",
+    "surname": "Farrell Proulx"
+  },
+  {
+    "name": "Michel",
+    "surname": "Faubert"
+  },
+  {
+    "name": "Denis",
+    "surname": "Faucher"
+  },
+  {
+    "name": "Jean-Pierre",
+    "surname": "Ferland"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Flynn"
+  },
+  {
+    "name": "Martin",
+    "surname": "Fontaine"
+  },
+  {
+    "name": "Peter",
+    "surname": "Forbes"
+  },
+  {
+    "name": "Denis",
+    "surname": "Forcier"
+  },
+  {
+    "name": "Jason",
+    "surname": "Ford"
+  },
+  {
+    "name": "Pierre-Emile",
+    "surname": "Fortier"
+  },
+  {
+    "name": "Jean-Philippe",
+    "surname": "Fortier-Lazure"
+  },
+  {
+    "name": "Frédéric",
+    "surname": "Fortin"
+  },
+  {
+    "name": "Marc-André",
+    "surname": "Fortin"
+  },
+  {
+    "name": "Gérard",
+    "surname": "Fournier"
+  },
+  {
+    "name": "Jean-Sébastien",
+    "surname": "Fournier"
+  },
+  {
+    "name": "Pierrot",
+    "surname": "Fournier"
+  },
+  {
+    "name": "Simon",
+    "surname": "Fournier"
+  },
+  {
+    "name": "Mario",
+    "surname": "Fraser"
+  },
+  {
+    "name": "Jean",
+    "surname": "Fréchette"
+  },
+  {
+    "name": "Sébastien",
+    "surname": "Fréchette"
+  },
+  {
+    "name": "Bertrand",
+    "surname": "Fugère"
+  },
+  {
+    "name": "Gardy",
+    "surname": "Fury"
+  },
+  {
+    "name": "PAUL (PHILLIPE)",
+    "surname": "GUITARD"
+  },
+  {
+    "name": "Guy",
+    "surname": "Gagnon"
+  },
+  {
+    "name": "Luc-Jean",
+    "surname": "Gagnon"
+  },
+  {
+    "name": "Paul-Roger",
+    "surname": "Gagnon"
+  },
+  {
+    "name": "Claude",
+    "surname": "Gagné"
+  },
+  {
+    "name": "Dominique",
+    "surname": "Gagné"
+  },
+  {
+    "name": "Jonathan",
+    "surname": "Gagné"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Gagné"
+  },
+  {
+    "name": "Francis",
+    "surname": "Gallant"
+  },
+  {
+    "name": "François",
+    "surname": "Gallant"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Garand"
+  },
+  {
+    "name": "Michel-Olivier",
+    "surname": "Gasse"
+  },
+  {
+    "name": "Michel",
+    "surname": "Gatignol"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Gaudet"
+  },
+  {
+    "name": "Richard",
+    "surname": "Gaudry"
+  },
+  {
+    "name": "Yv",
+    "surname": "Gaudry"
+  },
+  {
+    "name": "Claude",
+    "surname": "Gauthier"
+  },
+  {
+    "name": "Eric",
+    "surname": "Gauvin"
+  },
+  {
+    "name": "Yvan",
+    "surname": "Gauvin"
+  },
+  {
+    "name": "Keven",
+    "surname": "Geddes"
+  },
+  {
+    "name": "Christian-Marc",
+    "surname": "Gendron"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Gendron"
+  },
+  {
+    "name": "Pascal",
+    "surname": "Germain-Berardi"
+  },
+  {
+    "name": "Antoine",
+    "surname": "Gervais"
+  },
+  {
+    "name": "Maxime",
+    "surname": "Gervais"
+  },
+  {
+    "name": "Mark",
+    "surname": "Giannetti"
+  },
+  {
+    "name": "Gordon",
+    "surname": "Gietz"
+  },
+  {
+    "name": "John",
+    "surname": "Giffen"
+  },
+  {
+    "name": "François",
+    "surname": "Girard"
+  },
+  {
+    "name": "Gilles",
+    "surname": "Girard"
+  },
+  {
+    "name": "Michael",
+    "surname": "Girard"
+  },
+  {
+    "name": "Sam-Éloi",
+    "surname": "Girard"
+  },
+  {
+    "name": "Tom-Eliot",
+    "surname": "Girard"
+  },
+  {
+    "name": "Kaven",
+    "surname": "Girouard"
+  },
+  {
+    "name": "Martin B.",
+    "surname": "Giroux"
+  },
+  {
+    "name": "Benoit",
+    "surname": "Godard"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Goncalves"
+  },
+  {
+    "name": "Claude",
+    "surname": "Gosselin"
+  },
+  {
+    "name": "Bruce",
+    "surname": "Gough"
+  },
+  {
+    "name": "Eric",
+    "surname": "Goulet"
+  },
+  {
+    "name": "Jean-Philippe",
+    "surname": "Goulet"
+  },
+  {
+    "name": "Antoine",
+    "surname": "Gratton"
+  },
+  {
+    "name": "Claude",
+    "surname": "Grenier"
+  },
+  {
+    "name": "Richard",
+    "surname": "Groulx"
+  },
+  {
+    "name": "Mathieu",
+    "surname": "Grégoire"
+  },
+  {
+    "name": "Jason",
+    "surname": "Guerrette"
+  },
+  {
+    "name": "Jean-Paul",
+    "surname": "Guillemette"
+  },
+  {
+    "name": "Jean-Pierre",
+    "surname": "Guindon"
+  },
+  {
+    "name": "P. Paul",
+    "surname": "Guitard"
+  },
+  {
+    "name": "François",
+    "surname": "Guy"
+  },
+  {
+    "name": "Donald",
+    "surname": "Habib"
+  },
+  {
+    "name": "Youssef",
+    "surname": "Haimeur"
+  },
+  {
+    "name": "Lionel",
+    "surname": "Hamel"
+  },
+  {
+    "name": "Steve",
+    "surname": "Hanley"
+  },
+  {
+    "name": "Elie",
+    "surname": "Haroun"
+  },
+  {
+    "name": "Marc",
+    "surname": "Hervieux"
+  },
+  {
+    "name": "Conrad",
+    "surname": "Hilaire"
+  },
+  {
+    "name": "Stanley-Francis",
+    "surname": "Hilaire"
+  },
+  {
+    "name": "Steve",
+    "surname": "Hill"
+  },
+  {
+    "name": "Jean-Pierre",
+    "surname": "Houle"
+  },
+  {
+    "name": "Bruce",
+    "surname": "Huard"
+  },
+  {
+    "name": "Robert",
+    "surname": "Huard"
+  },
+  {
+    "name": "Dominique",
+    "surname": "Hudson"
+  },
+  {
+    "name": "Richard",
+    "surname": "Huet"
+  },
+  {
+    "name": "Rick",
+    "surname": "Hughes"
+  },
+  {
+    "name": "Charles F",
+    "surname": "Huot"
+  },
+  {
+    "name": "Louis-Philippe",
+    "surname": "Hébert"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Jaroussault"
+  },
+  {
+    "name": "Aldéo",
+    "surname": "Jean"
+  },
+  {
+    "name": "François Valéry",
+    "surname": "Jean"
+  },
+  {
+    "name": "François-Olivier",
+    "surname": "Jean"
+  },
+  {
+    "name": "Jean-Paul",
+    "surname": "Jeannotte"
+  },
+  {
+    "name": "Tomas",
+    "surname": "Jensen"
+  },
+  {
+    "name": "Thomas",
+    "surname": "Jodoin-Fontaine"
+  },
+  {
+    "name": "Steve",
+    "surname": "Jolin"
+  },
+  {
+    "name": "Franck",
+    "surname": "Julien"
+  },
+  {
+    "name": "Ian",
+    "surname": "Kelly"
+  },
+  {
+    "name": "Clayton",
+    "surname": "Kennedy"
+  },
+  {
+    "name": "Robert",
+    "surname": "Kinar"
+  },
+  {
+    "name": "William",
+    "surname": "Kraushaar"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Kwenders"
+  },
+  {
+    "name": "CHARLES",
+    "surname": "LINTON"
+  },
+  {
+    "name": "Jean-Guy Chuck",
+    "surname": "Labelle"
+  },
+  {
+    "name": "Yves",
+    "surname": "Labonté"
+  },
+  {
+    "name": "Bruno",
+    "surname": "Labrie"
+  },
+  {
+    "name": "Martin",
+    "surname": "Lacasse"
+  },
+  {
+    "name": "Réjean",
+    "surname": "Lachance"
+  },
+  {
+    "name": "David",
+    "surname": "Lachapelle"
+  },
+  {
+    "name": "Sébastien",
+    "surname": "Lacombe"
+  },
+  {
+    "name": "Pierre-Antoine",
+    "surname": "Ladouceur"
+  },
+  {
+    "name": "Michel",
+    "surname": "Laflamme"
+  },
+  {
+    "name": "Patrick",
+    "surname": "Lafleur"
+  },
+  {
+    "name": "François",
+    "surname": "Lafontaine"
+  },
+  {
+    "name": "Alfred",
+    "surname": "Lagrenade"
+  },
+  {
+    "name": "Frédéric",
+    "surname": "Lalancette"
+  },
+  {
+    "name": "Maxime",
+    "surname": "Lalanne"
+  },
+  {
+    "name": "Benjamin",
+    "surname": "Laliberté"
+  },
+  {
+    "name": "Dany",
+    "surname": "Laliberté"
+  },
+  {
+    "name": "Jean-Pierre",
+    "surname": "Lalonde"
+  },
+  {
+    "name": "Denis",
+    "surname": "Lamarre"
+  },
+  {
+    "name": "Yves",
+    "surname": "Lambert"
+  },
+  {
+    "name": "Alain-François",
+    "surname": "Lamontagne"
+  },
+  {
+    "name": "Maxime",
+    "surname": "Landry"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Landry"
+  },
+  {
+    "name": "Sylvain B.",
+    "surname": "Landry"
+  },
+  {
+    "name": "Olivier",
+    "surname": "Langevin"
+  },
+  {
+    "name": "Robert",
+    "surname": "Langlois"
+  },
+  {
+    "name": "Dominique",
+    "surname": "Lanoie"
+  },
+  {
+    "name": "Yanick",
+    "surname": "Lanthier"
+  },
+  {
+    "name": "Yves",
+    "surname": "Lapierre"
+  },
+  {
+    "name": "Bruno",
+    "surname": "Laplante"
+  },
+  {
+    "name": "Alain",
+    "surname": "Lapointe"
+  },
+  {
+    "name": "Eric",
+    "surname": "Lapointe"
+  },
+  {
+    "name": "Hugo",
+    "surname": "Lapointe"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Lapointe"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Lapointe"
+  },
+  {
+    "name": "Hugo",
+    "surname": "Lapointe-Massicotte"
+  },
+  {
+    "name": "Hugo",
+    "surname": "Laporte"
+  },
+  {
+    "name": "Olivier",
+    "surname": "Laquerre"
+  },
+  {
+    "name": "Juan Sebastian",
+    "surname": "Larobina Gomez"
+  },
+  {
+    "name": "Jean-Philippe",
+    "surname": "Laroche"
+  },
+  {
+    "name": "David",
+    "surname": "Latulippe"
+  },
+  {
+    "name": "Matt",
+    "surname": "Laurent"
+  },
+  {
+    "name": "Christian",
+    "surname": "Laveau"
+  },
+  {
+    "name": "Jean-Mickael",
+    "surname": "Lavernay"
+  },
+  {
+    "name": "Alex",
+    "surname": "Lavoie"
+  },
+  {
+    "name": "Daniel G.",
+    "surname": "Lavoie"
+  },
+  {
+    "name": "Mathieu",
+    "surname": "Lavoie"
+  },
+  {
+    "name": "Tomislav",
+    "surname": "Lavoie"
+  },
+  {
+    "name": "Benoit",
+    "surname": "Le Blanc"
+  },
+  {
+    "name": "Wilfred",
+    "surname": "Le Bouthillier"
+  },
+  {
+    "name": "David",
+    "surname": "LeBlanc"
+  },
+  {
+    "name": "Dominique",
+    "surname": "Lebeau"
+  },
+  {
+    "name": "Emanuel",
+    "surname": "Lebel"
+  },
+  {
+    "name": "Danny",
+    "surname": "Leclerc"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Leduc"
+  },
+  {
+    "name": "Mike",
+    "surname": "Lee"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Lefrançois"
+  },
+  {
+    "name": "Alain",
+    "surname": "Lefèvre"
+  },
+  {
+    "name": "Jean-Noël",
+    "surname": "Legault"
+  },
+  {
+    "name": "André",
+    "surname": "Lejeune"
+  },
+  {
+    "name": "Nathan",
+    "surname": "Lelièvre"
+  },
+  {
+    "name": "Claude",
+    "surname": "Lemay"
+  },
+  {
+    "name": "Félix",
+    "surname": "Lemelin"
+  },
+  {
+    "name": "Nicolas",
+    "surname": "Lemieux"
+  },
+  {
+    "name": "Stéphane",
+    "surname": "Lemieux"
+  },
+  {
+    "name": "Mario",
+    "surname": "Lento"
+  },
+  {
+    "name": "Michel",
+    "surname": "Lepage"
+  },
+  {
+    "name": "Guy",
+    "surname": "Lessard"
+  },
+  {
+    "name": "Martin",
+    "surname": "Levac"
+  },
+  {
+    "name": "Bernard",
+    "surname": "Levasseur"
+  },
+  {
+    "name": "Michael",
+    "surname": "Lockley"
+  },
+  {
+    "name": "Jean-Philippe",
+    "surname": "Loignon"
+  },
+  {
+    "name": "Alexis",
+    "surname": "Loranger"
+  },
+  {
+    "name": "Michel",
+    "surname": "Louvain"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Loyer"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Léger"
+  },
+  {
+    "name": "Michel",
+    "surname": "Léonard"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Létourneau"
+  },
+  {
+    "name": "Jean-Pierre R.",
+    "surname": "Macdonald"
+  },
+  {
+    "name": "Thomas",
+    "surname": "Macleay"
+  },
+  {
+    "name": "Paul",
+    "surname": "Macot"
+  },
+  {
+    "name": "Eric",
+    "surname": "Maheu"
+  },
+  {
+    "name": "Tristan",
+    "surname": "Malavoy-Racine"
+  },
+  {
+    "name": "Gabriel",
+    "surname": "Malenfant"
+  },
+  {
+    "name": "Patrick",
+    "surname": "Mallette"
+  },
+  {
+    "name": "Bertrand-Raymond",
+    "surname": "Malo"
+  },
+  {
+    "name": "Marc-François",
+    "surname": "Maltais"
+  },
+  {
+    "name": "Jean-Pierre",
+    "surname": "Manseau"
+  },
+  {
+    "name": "Yves",
+    "surname": "Marchand"
+  },
+  {
+    "name": "David",
+    "surname": "Marin"
+  },
+  {
+    "name": "Luc",
+    "surname": "Marquis"
+  },
+  {
+    "name": "Jean Claude",
+    "surname": "Marsan"
+  },
+  {
+    "name": "Benoît",
+    "surname": "Martel"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Martel"
+  },
+  {
+    "name": "Dion",
+    "surname": "Mazerolle"
+  },
+  {
+    "name": "Alex",
+    "surname": "Mc Mahon"
+  },
+  {
+    "name": "Michael",
+    "surname": "McAuley"
+  },
+  {
+    "name": "Pierre",
+    "surname": "McLean"
+  },
+  {
+    "name": "Brian",
+    "surname": "McMillan"
+  },
+  {
+    "name": "Jason",
+    "surname": "McNally"
+  },
+  {
+    "name": "Maurice (Marc)",
+    "surname": "McNamara"
+  },
+  {
+    "name": "Stephan",
+    "surname": "McNicoll"
+  },
+  {
+    "name": "Mike",
+    "surname": "Melino"
+  },
+  {
+    "name": "David",
+    "surname": "Menzies"
+  },
+  {
+    "name": "Luck",
+    "surname": "Mervil"
+  },
+  {
+    "name": "Dominique",
+    "surname": "Messier"
+  },
+  {
+    "name": "Claud",
+    "surname": "Michaud"
+  },
+  {
+    "name": "Patrice",
+    "surname": "Michaud"
+  },
+  {
+    "name": "Steeve",
+    "surname": "Michaud"
+  },
+  {
+    "name": "Jacques",
+    "surname": "Michel"
+  },
+  {
+    "name": "Sylvain",
+    "surname": "Michel"
+  },
+  {
+    "name": "Félicien",
+    "surname": "Mignault"
+  },
+  {
+    "name": "Rémi",
+    "surname": "Mignault"
+  },
+  {
+    "name": "Julien",
+    "surname": "Mineau"
+  },
+  {
+    "name": "Jerôme",
+    "surname": "Minière"
+  },
+  {
+    "name": "Nelson",
+    "surname": "Minville"
+  },
+  {
+    "name": "Benoit",
+    "surname": "Miron"
+  },
+  {
+    "name": "Jimmy",
+    "surname": "Miron"
+  },
+  {
+    "name": "Roger",
+    "surname": "Miron"
+  },
+  {
+    "name": "Martin",
+    "surname": "Moerman"
+  },
+  {
+    "name": "Edouard",
+    "surname": "Montpetit"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Moran"
+  },
+  {
+    "name": "Frankie Gaston",
+    "surname": "Moreau"
+  },
+  {
+    "name": "Vincent",
+    "surname": "Morel"
+  },
+  {
+    "name": "Maxime",
+    "surname": "Morin"
+  },
+  {
+    "name": "Simon",
+    "surname": "Morin"
+  },
+  {
+    "name": "Alex",
+    "surname": "Morissette"
+  },
+  {
+    "name": "Erick",
+    "surname": "Ménard"
+  },
+  {
+    "name": "Jacques Victor",
+    "surname": "Ménard"
+  },
+  {
+    "name": "Jocelyn",
+    "surname": "Ménard"
+  },
+  {
+    "name": "Peter",
+    "surname": "Nagy"
+  },
+  {
+    "name": "Alex",
+    "surname": "Nevsky"
+  },
+  {
+    "name": "Damian",
+    "surname": "Nisenson"
+  },
+  {
+    "name": "Pier",
+    "surname": "Noli"
+  },
+  {
+    "name": "Patrick",
+    "surname": "Norman"
+  },
+  {
+    "name": "Pascal",
+    "surname": "Normand"
+  },
+  {
+    "name": "Paolo",
+    "surname": "Noël"
+  },
+  {
+    "name": "Corneille",
+    "surname": "Nyungura"
+  },
+  {
+    "name": "Patrick",
+    "surname": "Olafson-Hénault"
+  },
+  {
+    "name": "Cosimo Eliseo",
+    "surname": "Oppedisano"
+  },
+  {
+    "name": "Eugenio Roberto",
+    "surname": "Osorio"
+  },
+  {
+    "name": "Sébastien",
+    "surname": "Ouellet"
+  },
+  {
+    "name": "Marc",
+    "surname": "Ouellette"
+  },
+  {
+    "name": "Michel",
+    "surname": "Pagliaro"
+  },
+  {
+    "name": "Eloi",
+    "surname": "Painchaud"
+  },
+  {
+    "name": "Jonathan",
+    "surname": "Painchaud"
+  },
+  {
+    "name": "Charles",
+    "surname": "Papasoff"
+  },
+  {
+    "name": "Stéphane",
+    "surname": "Papillon"
+  },
+  {
+    "name": "Stéphane Paul",
+    "surname": "Paquette"
+  },
+  {
+    "name": "Maurice",
+    "surname": "Paquin"
+  },
+  {
+    "name": "José",
+    "surname": "Paradis"
+  },
+  {
+    "name": "Kevin",
+    "surname": "Parent"
+  },
+  {
+    "name": "Marc",
+    "surname": "Parent"
+  },
+  {
+    "name": "Alexandre",
+    "surname": "Parr"
+  },
+  {
+    "name": "Sylvain",
+    "surname": "Paré"
+  },
+  {
+    "name": "Gilbert",
+    "surname": "Patenaude"
+  },
+  {
+    "name": "Julien",
+    "surname": "Patenaude"
+  },
+  {
+    "name": "Alain",
+    "surname": "Patry"
+  },
+  {
+    "name": "Yvan",
+    "surname": "Pedneault"
+  },
+  {
+    "name": "Mario",
+    "surname": "Pelchat"
+  },
+  {
+    "name": "Simon",
+    "surname": "Pelchat"
+  },
+  {
+    "name": "Nicolas",
+    "surname": "Pellerin"
+  },
+  {
+    "name": "Bruno",
+    "surname": "Pelletier"
+  },
+  {
+    "name": "Claude-Robin",
+    "surname": "Pelletier"
+  },
+  {
+    "name": "Normand",
+    "surname": "Pelletier"
+  },
+  {
+    "name": "Sébastien",
+    "surname": "Pelletier"
+  },
+  {
+    "name": "Yann",
+    "surname": "Perreau"
+  },
+  {
+    "name": "Hugo",
+    "surname": "Perreault"
+  },
+  {
+    "name": "Robert",
+    "surname": "Peters"
+  },
+  {
+    "name": "Richard",
+    "surname": "Petit"
+  },
+  {
+    "name": "Louis-Pierre",
+    "surname": "Phaneuf"
+  },
+  {
+    "name": "Raymond",
+    "surname": "Philippe"
+  },
+  {
+    "name": "Jean Claude",
+    "surname": "Picard"
+  },
+  {
+    "name": "Paul",
+    "surname": "Piché"
+  },
+  {
+    "name": "Jean-Marc",
+    "surname": "Pilon"
+  },
+  {
+    "name": "Joffrey",
+    "surname": "Pinel"
+  },
+  {
+    "name": "Benoit",
+    "surname": "Pinette"
+  },
+  {
+    "name": "Jean-Marc",
+    "surname": "Pisapia"
+  },
+  {
+    "name": "Carlos",
+    "surname": "Placeres"
+  },
+  {
+    "name": "Marc Joseph Edgar",
+    "surname": "Poirier"
+  },
+  {
+    "name": "Sylvain P.",
+    "surname": "Poirier"
+  },
+  {
+    "name": "Charles",
+    "surname": "Pomerlo"
+  },
+  {
+    "name": "Guy",
+    "surname": "Porlier"
+  },
+  {
+    "name": "David",
+    "surname": "Portelance"
+  },
+  {
+    "name": "Vincent",
+    "surname": "Potel"
+  },
+  {
+    "name": "François",
+    "surname": "Pothier Bouchard"
+  },
+  {
+    "name": "Maxime-Olivier",
+    "surname": "Potvin"
+  },
+  {
+    "name": "Yves",
+    "surname": "Potvin"
+  },
+  {
+    "name": "Alexandre",
+    "surname": "Poulin"
+  },
+  {
+    "name": "Jacques",
+    "surname": "Pratt"
+  },
+  {
+    "name": "Guy",
+    "surname": "Pratte"
+  },
+  {
+    "name": "Scott",
+    "surname": "Price"
+  },
+  {
+    "name": "Marc-André",
+    "surname": "Pronovost"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Proulx"
+  },
+  {
+    "name": "Simon",
+    "surname": "Proulx"
+  },
+  {
+    "name": "Isabeau",
+    "surname": "Proulx Lemire"
+  },
+  {
+    "name": "Manuel",
+    "surname": "Provençal"
+  },
+  {
+    "name": "Mathieu",
+    "surname": "Provençal"
+  },
+  {
+    "name": "Charles",
+    "surname": "Prévost (Linton)"
+  },
+  {
+    "name": "Christian",
+    "surname": "Péloquin"
+  },
+  {
+    "name": "Sylvain",
+    "surname": "Quesnel"
+  },
+  {
+    "name": "Gino",
+    "surname": "Quilico"
+  },
+  {
+    "name": "Alain",
+    "surname": "Quirion"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Raby-Turgeon"
+  },
+  {
+    "name": "Danny",
+    "surname": "Ranallo"
+  },
+  {
+    "name": "Vincent",
+    "surname": "Ranallo"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Rancourt"
+  },
+  {
+    "name": "Jean",
+    "surname": "Ravel"
+  },
+  {
+    "name": "Normand",
+    "surname": "Richard"
+  },
+  {
+    "name": "Zachary",
+    "surname": "Richard"
+  },
+  {
+    "name": "Jean-Michel",
+    "surname": "Richer"
+  },
+  {
+    "name": "Mathieu",
+    "surname": "Richer"
+  },
+  {
+    "name": "Michel",
+    "surname": "Rivard"
+  },
+  {
+    "name": "Raphaël",
+    "surname": "Roberge"
+  },
+  {
+    "name": "Norman",
+    "surname": "Robert"
+  },
+  {
+    "name": "Serge",
+    "surname": "Robert"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Robichaud"
+  },
+  {
+    "name": "Michel",
+    "surname": "Robidoux"
+  },
+  {
+    "name": "Robert \"Bob\"",
+    "surname": "Robie"
+  },
+  {
+    "name": "Claude",
+    "surname": "Robitaille"
+  },
+  {
+    "name": "Damien",
+    "surname": "Robitaille"
+  },
+  {
+    "name": "Guy",
+    "surname": "Robitaille"
+  },
+  {
+    "name": "Jean",
+    "surname": "Robitaille"
+  },
+  {
+    "name": "Robert",
+    "surname": "Robitaille"
+  },
+  {
+    "name": "Eric",
+    "surname": "Rock"
+  },
+  {
+    "name": "Domenic",
+    "surname": "Romanelli"
+  },
+  {
+    "name": "Alex",
+    "surname": "Ross"
+  },
+  {
+    "name": "Martin",
+    "surname": "Rouette"
+  },
+  {
+    "name": "Joseph",
+    "surname": "Rouleau"
+  },
+  {
+    "name": "Christian",
+    "surname": "Roy"
+  },
+  {
+    "name": "Jonathan",
+    "surname": "Roy"
+  },
+  {
+    "name": "Jacques",
+    "surname": "Roy-Faust"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Ruel"
+  },
+  {
+    "name": "Carlos",
+    "surname": "Ruiz"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Russo-Garrido"
+  },
+  {
+    "name": "Yves",
+    "surname": "Saint-Amant"
+  },
+  {
+    "name": "Hugues",
+    "surname": "Saint-Gelais"
+  },
+  {
+    "name": "Martin",
+    "surname": "Samuel"
+  },
+  {
+    "name": "Jean-Louis",
+    "surname": "Sanscartier"
+  },
+  {
+    "name": "Paul",
+    "surname": "Sarrasin"
+  },
+  {
+    "name": "Luc",
+    "surname": "Saucier"
+  },
+  {
+    "name": "Kenneth",
+    "surname": "Saulnier"
+  },
+  {
+    "name": "Gaétan",
+    "surname": "Sauvageau"
+  },
+  {
+    "name": "Yves",
+    "surname": "Savard"
+  },
+  {
+    "name": "Christian",
+    "surname": "Sbrocca"
+  },
+  {
+    "name": "Michiel",
+    "surname": "Schrey"
+  },
+  {
+    "name": "Bernard",
+    "surname": "Scott"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Scott"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Senécal"
+  },
+  {
+    "name": "Dorian",
+    "surname": "Sherwood"
+  },
+  {
+    "name": "Stefie",
+    "surname": "Shock"
+  },
+  {
+    "name": "Jean-Marc",
+    "surname": "Sigmen"
+  },
+  {
+    "name": "Alex",
+    "surname": "Simpson"
+  },
+  {
+    "name": "Yoland",
+    "surname": "Sirard"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Sly"
+  },
+  {
+    "name": "Jeff",
+    "surname": "Smallwood"
+  },
+  {
+    "name": "Michel",
+    "surname": "St-Clair Dion"
+  },
+  {
+    "name": "Guillaume",
+    "surname": "St-Cyr"
+  },
+  {
+    "name": "Roger",
+    "surname": "St-Denis"
+  },
+  {
+    "name": "Frédéric",
+    "surname": "St-Gelais"
+  },
+  {
+    "name": "Bertin",
+    "surname": "St-Onge"
+  },
+  {
+    "name": "Michel",
+    "surname": "Stax"
+  },
+  {
+    "name": "Joseph",
+    "surname": "Stephen"
+  },
+  {
+    "name": "Jean-François",
+    "surname": "Stinco"
+  },
+  {
+    "name": "Alexandre",
+    "surname": "Sylvestre"
+  },
+  {
+    "name": "Richard",
+    "surname": "Séguin"
+  },
+  {
+    "name": "Yves Romain",
+    "surname": "Séguin"
+  },
+  {
+    "name": "Daniel",
+    "surname": "Tadros"
+  },
+  {
+    "name": "Eric",
+    "surname": "Tadros"
+  },
+  {
+    "name": "Arthur",
+    "surname": "Tanguay-Labrosse"
+  },
+  {
+    "name": "Daniel-John",
+    "surname": "Taylor"
+  },
+  {
+    "name": "Victor",
+    "surname": "Tevini"
+  },
+  {
+    "name": "François",
+    "surname": "Therriault"
+  },
+  {
+    "name": "David",
+    "surname": "Thibault"
+  },
+  {
+    "name": "Marc-Andre",
+    "surname": "Thibault"
+  },
+  {
+    "name": "Alex",
+    "surname": "Thériault"
+  },
+  {
+    "name": "Eric",
+    "surname": "Thériault"
+  },
+  {
+    "name": "Michel-Robert",
+    "surname": "Thériault"
+  },
+  {
+    "name": "Jonas",
+    "surname": "Tomalty"
+  },
+  {
+    "name": "Robert",
+    "surname": "Torr"
+  },
+  {
+    "name": "Réal",
+    "surname": "Toupin"
+  },
+  {
+    "name": "Philippe",
+    "surname": "Touzel"
+  },
+  {
+    "name": "Clermont",
+    "surname": "Tremblay"
+  },
+  {
+    "name": "Fabrice",
+    "surname": "Tremblay"
+  },
+  {
+    "name": "Karl",
+    "surname": "Tremblay"
+  },
+  {
+    "name": "Ronald",
+    "surname": "Tremblay"
+  },
+  {
+    "name": "Rémy",
+    "surname": "Tremblay"
+  },
+  {
+    "name": "Samuel",
+    "surname": "Tremblay"
+  },
+  {
+    "name": "Tommy",
+    "surname": "Tremblay"
+  },
+  {
+    "name": "Simon-Charles",
+    "surname": "Tremblay Béchard"
+  },
+  {
+    "name": "Scott",
+    "surname": "Tresham"
+  },
+  {
+    "name": "David",
+    "surname": "Trower"
+  },
+  {
+    "name": "Mario",
+    "surname": "Trudel"
+  },
+  {
+    "name": "Paul",
+    "surname": "Trépanier"
+  },
+  {
+    "name": "Pierre",
+    "surname": "Trépanier"
+  },
+  {
+    "name": "David",
+    "surname": "Turcotte"
+  },
+  {
+    "name": "Serge",
+    "surname": "Turcotte"
+  },
+  {
+    "name": "Dany",
+    "surname": "Vachon"
+  },
+  {
+    "name": "Gérard-Charles",
+    "surname": "Valente"
+  },
+  {
+    "name": "Gilles",
+    "surname": "Valiquette"
+  },
+  {
+    "name": "Claude",
+    "surname": "Vallières"
+  },
+  {
+    "name": "Vincent",
+    "surname": "Vallières"
+  },
+  {
+    "name": "Karl-Hugo",
+    "surname": "Van De Kerckhove"
+  },
+  {
+    "name": "Dominic",
+    "surname": "Veilleux"
+  },
+  {
+    "name": "Steve",
+    "surname": "Veilleux"
+  },
+  {
+    "name": "Jean",
+    "surname": "Verreau"
+  },
+  {
+    "name": "Gilles",
+    "surname": "Vigneault"
+  },
+  {
+    "name": "Mario",
+    "surname": "Vigneault"
+  },
+  {
+    "name": "Christian",
+    "surname": "Villemure"
+  },
+  {
+    "name": "Roch",
+    "surname": "Voisine"
+  },
+  {
+    "name": "René",
+    "surname": "Voyer"
+  },
+  {
+    "name": "Steeve",
+    "surname": "Vérayie"
+  },
+  {
+    "name": "Josh",
+    "surname": "Whelan"
+  },
+  {
+    "name": "Carl",
+    "surname": "William"
+  },
+  {
+    "name": "Christopher",
+    "surname": "Wilson"
+  },
+  {
+    "name": "Patrick",
+    "surname": "Zabé"
+  },
+  {
+    "name": "Marc-Antoine",
+    "surname": "d'Aragon"
+  },
+  {
+    "name": "Thibaud",
+    "surname": "de Corta"
+  },
+  {
+    "name": "Marcel",
+    "surname": "de Hêtre"
+  }
+]
