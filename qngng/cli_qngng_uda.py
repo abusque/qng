@@ -7,12 +7,12 @@ import sys
 import unicodedata
 from typing import Optional
 
-import qng
-from qng import common
+import qngng
+from qngng import common
 
 
 def _parse_args():
-    parser = argparse.ArgumentParser(description=qng.__description__)
+    parser = argparse.ArgumentParser(description=qngng.__description__)
     parser.add_argument('--gender', '-g', choices=['male', 'female'],
                         help='Filter first names by gender')
     parser.add_argument('--snake-case', '-s', action='store_true',

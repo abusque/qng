@@ -1,97 +1,108 @@
-===
-qng
-===
+=====
+qngng
+=====
 
-**qng**, the Queb name generator.
+**qngng**, the Queb name generator: *next generation*.
+
+This is a fork of the more basic `qng <https://github.com/abusque/qng>`_
+project which includes the novel ``qngng-uda`` program to generate a
+random name from the `UDA <https://uda.ca/>`_ directory.
+
+Unfortunately, the qng maintainer is unresponsive and won't follow up
+with community contributions, so this fork is necessary.
+
 
 Requirements
 ------------
+To run **qngng**, you only need Python ≥ 3.6.
 
-To run **qng**, you will only need Python ≥ 3.6.
-
-For installing, we recommend using the ``pip`` package manager.
 
 Installing
 ----------
-
-To install **qng** system-wide, run:
-
-.. code-block:: sh
-
-   sudo pip3 install qng
-
-To install **qng** manually from source, the steps are as follows:
+To install **qngng** system-wide, run:
 
 .. code-block:: sh
 
-   git clone git@github.com:abusque/qng.git
-   cd qng
-   sudo ./setup.py install
+   $ sudo pip3 install qngng
 
-Using
+To install **qngng** manually from source, the steps are as follows:
+
+.. code-block:: sh
+
+   $ git clone https://github.com/eepp/qngng
+   $ cd qngng
+   $ sudo ./setup.py install
+
+
+Usage
 -----
-
-Once installed, you can use **qng** by running the following command:
+qngng
+~~~~~
+Once installed, you can use **qngng**:
 
 .. code-block:: sh
 
-   qng
+   $ qngng
 
-
-This will generate a single random Queb name.
+This generates a single random Queb name.
 
 You can also generate names for a specific gender:
 
 .. code-block:: sh
 
-   qng --gender male
-
+   $ qngng --gender=male
 
 Generate names according to their relative popularity:
 
 .. code-block:: sh
 
-   qng --weighted
+   $ qngng --weighted
 
-
-Generate a name formatted as "snake_case" without any diacritics
-(useful for naming your containers):
+Generate a name formatted as "snake_case" without any diacritics:
 
 .. code-block:: sh
 
-   qng --snake-case
+   $ qngng --snake-case
 
-
-All the above options may be combined if desired. Refer to the help
-for more details:
+Generate a name formatted as "kebab-case" without any diacritics:
 
 .. code-block:: sh
 
-   qng --help
+   $ qngng --kebab-case
+
+qngng-uda
+~~~~~~~~~
+If you want to get a real `UDA <https://uda.ca/>`_ member name, you can
+use ``qngng-uda``:
+
+.. code-block:: sh
+
+   $ qngng-uda
+
+Like ``qngng``, ``qngng-uda`` supports the ``--gender``, ``--snake-case``,
+and ``--kebab-case`` options.
+
+You can get the name of an UDA actor, host (*animateur* in French), or
+singer with the ``--type`` option:
+
+.. code-block:: sh
+
+   $ qngng-uda --type=actor
+   $ qngng-uda --type=host
+   $ qngng-uda --type=singer
 
 
-Development
------------
+Sources
+-------
+The data for **qngng** was sourced from l'`Institut de la statistique
+<http://www.stat.gouv.qc.ca/statistiques/population-demographie/caracteristiques/noms_famille_1000.htm>`_
+for surnames, and from `PrénomsQuébec.ca
+<https://www.prenomsquebec.ca/>`_ for first names (who in turn get their
+data from Retraite Québec's `Banque de prénoms
+<https://www.rrq.gouv.qc.ca/fr/enfants/banque_prenoms/Pages/banque_prenoms.aspx>`_).
 
-For local development of **qng**, you may use
-`pipenv <https://docs.pipenv.org/>`_. Use ``pipenv install --dev`` to
-generate a virtual environment into which the dependencies will be
-installed. You may then use ``pipenv shell`` to activate that
-environment.
+The data for the ``qngng-uda`` command was sourced from the April 2019
+UDA directory.
 
-For publishing releases to PyPI, we recommend using
-`Twine <https://pypi.org/project/twine/>`_.
-
-References
-----------
-
-The data for **qng** was sourced from `l'institut de la statistique`_
-for surnames, and from `PrénomsQuébec.ca`_ for first names (who in
-turn get their data from Retraite Québec's `banque de prénoms`_).
-
-Scripts used for scraping the data from the web pages can be found
-under the ``scripts/`` directory.
-
-.. _l'institut de la statistique: http://www.stat.gouv.qc.ca/statistiques/population-demographie/caracteristiques/noms_famille_1000.htm
-.. _PrénomsQuébec.ca: https://www.prenomsquebec.ca/
-.. _banque de prénoms: https://www.rrq.gouv.qc.ca/fr/enfants/banque_prenoms/Pages/banque_prenoms.aspx
+Scripts used for scraping the data from the web pages are in the
+``scripts`` directory.

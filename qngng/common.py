@@ -8,7 +8,7 @@ import unicodedata
 import re
 from typing import Optional
 
-import qng
+import qngng
 
 
 _BASE_DIR = os.path.dirname(os.path.realpath(__file__))

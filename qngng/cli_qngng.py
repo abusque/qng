@@ -7,30 +7,28 @@ import sys
 import unicodedata
 from typing import Optional
 
-import qng
-
-
-_BASE_DIR = os.path.dirname(os.path.realpath(__file__))
-_DATA_DIR = os.path.join(_BASE_DIR, 'data')
+import qngng
+from qngng import common
 
 
 def _parse_args():
-    parser = argparse.ArgumentParser(description=qng.__description__)
+    parser = argparse.ArgumentParser(description=qngng.__description__)
 
     parser.add_argument('--gender', '-g', choices=['male', 'female'],
                         help='Filter first names by gender')
     parser.add_argument('--snake-case', '-s', action='store_true',
                         help='Print names in "snake_case" format')
+    parser.add_argument('--kebab-case', '-k', action='store_true',
+                        help='Print names in "kebab-case" format')
     parser.add_argument('--weighted', '-w', action='store_true',
                         help='Pick names according to their relative popularity')
-
     args = parser.parse_args()
-
+    common._validate_snake_kebab_args(args)
     return args
 
 
 def _read_name_file(filename):
-    file_path = os.path.join(_DATA_DIR, filename)
+    file_path = os.path.join(common._DATA_DIR, filename)
     with open(file_path) as f:
         names = json.load(f)
 
@@ -73,33 +71,6 @@ def _get_weighted_random_name(name_list) -> str:
             return entry['name']
 
 
-def _strip_diacritics(string: str) -> str:
-    return (
-        unicodedata.normalize('NFKD', string)
-        .encode('ascii', 'ignore')
-        .decode('utf-8')
-    )
-
-
-def _snakify_name(name: str) -> str:
-    name = _strip_diacritics(name)
-    name = name.lower()
-    name = name.replace(' ', '-')
-
-    return name
-
-
-def _format_name(name: str, surname: str, snake_case: bool = False) -> str:
-    if snake_case:
-        name = _snakify_name(name)
-        surname = _snakify_name(surname)
-        full_name = f'{name}_{surname}'
-    else:
-        full_name = f'{name} {surname}'
-
-    return full_name
-
-
 def _run(args):
     names = _get_names(gender=args.gender)
     surnames = _get_surnames()
@@ -111,10 +82,7 @@ def _run(args):
 
     name = get_random_name(names)
     surname = get_random_name(surnames)
-
-    full_name = _format_name(name, surname, snake_case=args.snake_case)
-
-    print(full_name)
+    common._print_name(name, surname, args)
 
 
 def main():
